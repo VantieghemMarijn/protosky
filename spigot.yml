@@ -159,5 +159,5 @@ world-settings:
       tile: 50
       entity: 50
     ticks-per:
-      hopper-transfer: 1
+      hopper-transfer: 5
       hopper-check: 1

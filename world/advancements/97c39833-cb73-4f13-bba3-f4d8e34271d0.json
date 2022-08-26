@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2022-08-26 20:00:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2022-08-24 20:34:12 +0200"
@@ -56,6 +62,12 @@
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2022-08-25 18:36:16 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2022-08-26 20:00:00 +0200"
     },
     "done": true
   },
@@ -110,6 +122,18 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2022-08-24 19:46:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2022-08-26 20:00:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2022-08-26 21:24:52 +0200"
     },
     "done": true
   },
@@ -197,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2022-08-26 20:00:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2022-08-24 17:02:42 +0200"
@@ -224,6 +254,12 @@
   "minecraft:nether/distract_piglin": {
     "criteria": {
       "distract_piglin": "2022-08-24 18:15:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2022-08-26 22:01:42 +0200"
     },
     "done": true
   },
@@ -272,6 +308,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2022-08-25 00:05:42 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2022-08-26 20:00:00 +0200"
     },
     "done": true
   },
@@ -363,6 +405,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2022-08-24 23:47:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2022-08-26 20:00:00 +0200"
     },
     "done": true
   },
@@ -474,6 +522,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2022-08-26 20:00:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2022-08-24 23:29:49 +0200"
@@ -516,9 +570,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2022-08-26 20:25:28 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
       "has_planks": "2022-08-24 16:48:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2022-08-26 20:00:00 +0200"
     },
     "done": true
   },
@@ -675,6 +741,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:magma_cube": "2022-08-25 23:08:16 +0200",
+      "minecraft:spider": "2022-08-26 20:14:04 +0200",
+      "minecraft:slime": "2022-08-26 20:18:37 +0200",
       "minecraft:zombified_piglin": "2022-08-24 17:42:42 +0200",
       "minecraft:witch": "2022-08-24 23:48:19 +0200",
       "minecraft:piglin": "2022-08-24 17:33:16 +0200",
@@ -691,6 +759,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2022-08-24 23:47:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2022-08-26 20:00:00 +0200"
     },
     "done": true
   },
@@ -715,6 +789,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2022-08-25 00:11:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2022-08-26 20:18:40 +0200"
     },
     "done": true
   },
@@ -766,6 +846,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2022-08-26 22:04:02 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-08-24 18:15:29 +0200"
@@ -802,6 +888,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2022-08-26 20:00:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2022-08-26 20:00:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2022-08-25 18:36:16 +0200"
@@ -829,6 +927,18 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2022-08-24 18:16:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2022-08-26 20:00:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2022-08-26 20:00:00 +0200"
     },
     "done": true
   },
@@ -865,6 +975,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-08-24 18:36:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2022-08-26 20:00:00 +0200"
     },
     "done": true
   },
@@ -907,6 +1023,12 @@
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_sword": "2022-08-24 17:25:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2022-08-26 20:00:00 +0200"
     },
     "done": true
   },
@@ -973,6 +1095,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2022-08-24 17:05:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2022-08-26 20:18:40 +0200"
     },
     "done": true
   },
@@ -1066,6 +1194,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2022-08-26 20:00:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2022-08-24 18:19:41 +0200"
@@ -1117,6 +1251,18 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2022-08-24 17:05:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2022-08-26 20:18:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2022-08-26 21:12:07 +0200"
     },
     "done": true
   },
@@ -1290,6 +1436,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2022-08-26 20:00:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2022-08-25 00:11:40 +0200"
@@ -1344,6 +1496,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2022-08-26 20:00:00 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2022-08-24 20:31:31 +0200"
@@ -1353,6 +1511,12 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2022-08-25 00:45:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2022-08-26 20:00:00 +0200"
     },
     "done": true
   },

@@ -1,22 +1,92 @@
-[00:07:41] [Server thread/INFO]: Lost_Oblivion lost connection: Disconnected
-[00:07:41] [Server thread/INFO]: Lost_Oblivion left the game
-[00:53:16] [Server thread/INFO]: HackDamonius issued server command: /give HackDamonius minecraft:crimson_nylium 64
-[00:53:16] [Server thread/INFO]: [HackDamonius: Gave 64 [Crimson Nylium] to HackDamonius]
-[01:49:56] [Server thread/INFO]: HackDamonius lost connection: Disconnected
-[01:49:56] [Server thread/INFO]: HackDamonius left the game
-[01:50:04] [Server thread/INFO]: Stopping the server
-[01:50:05] [Server thread/INFO]: Stopping server
-[01:50:05] [Server thread/INFO]: Saving players
-[01:50:05] [Server thread/INFO]: Saving worlds
-[01:50:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:50:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:50:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[01:50:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:50:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[01:50:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:50:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:50:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:50:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:50:05] [Server thread/INFO]: Flushing Chunk IO
-[01:50:05] [Server thread/INFO]: Closing Thread Pool
-[01:50:05] [Server thread/INFO]: Closing Server
+[21:04:18] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:04:18] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[21:04:19] [Worker-Main-2/INFO]: Loaded 7 recipes
+[21:04:20] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[21:04:20] [Server thread/INFO]: Loading properties
+[21:04:20] [Server thread/INFO]: This server is running Paper version git-Paper-342 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[21:04:20] [Server thread/INFO]: Debug logging is disabled
+[21:04:20] [Server thread/INFO]: Using 4 threads for Netty based IO
+[21:04:20] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[21:04:20] [Server thread/INFO]: Default game type: SURVIVAL
+[21:04:20] [Server thread/INFO]: Generating keypair
+[21:04:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:04:20] [Server thread/INFO]: Using default channel type
+[21:04:26] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[21:04:26] [Server thread/INFO]: Preparing level "world"
+[21:04:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:04:27] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[21:04:27] [Server thread/INFO]: Time elapsed: 240 ms
+[21:04:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[21:04:27] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[21:04:27] [Server thread/INFO]: Time elapsed: 126 ms
+[21:04:27] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[21:04:27] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[21:04:27] [Server thread/INFO]: Time elapsed: 37 ms
+[21:04:27] [Server thread/INFO]: Running delayed init tasks
+[21:04:27] [Server thread/INFO]: Done (7.297s)! For help, type "help"
+[21:04:27] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[21:04:27] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[21:04:27] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[21:04:27] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[21:04:27] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[21:04:27] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[21:04:27] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 11. When Paper for Minecraft 1.17 is
+[21:04:27] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 11 will
+[21:04:27] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[21:04:27] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[21:04:27] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 1.8.0_271
+[21:04:27] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[21:04:27] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[21:04:27] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java11
+[21:04:27] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[21:04:27] [Server thread/INFO]: Timings Reset
+[21:04:53] [User Authenticator #1/INFO]: UUID of player poke_craft245 is 0ed85f74-32e8-431c-91f2-e60507e71871
+[21:04:54] [Server thread/INFO]: poke_craft245 joined the game
+[21:04:54] [Server thread/INFO]: poke_craft245[/91.180.9.155:59810] logged in with entity id 148 at ([world_nether]-9.025607935710397, 1.5, 16.63691233624877)
+[21:05:00] [User Authenticator #1/INFO]: UUID of player justmartino is 7f0f99f0-5d6e-4f77-9063-efc66f10dfaf
+[21:05:00] [Server thread/INFO]: justmartino joined the game
+[21:05:00] [Server thread/INFO]: justmartino[/127.0.0.1:57191] logged in with entity id 170 at ([world_nether]-10.385640675664833, 1.5, 17.906124936857868)
+[21:05:06] [User Authenticator #1/INFO]: UUID of player HackDamonius is 97c39833-cb73-4f13-bba3-f4d8e34271d0
+[21:05:06] [Server thread/INFO]: HackDamonius joined the game
+[21:05:06] [Server thread/INFO]: HackDamonius[/178.117.9.224:60579] logged in with entity id 194 at ([world_nether]-12.048801835398924, 1.5, 19.818124962830748)
+[21:08:53] [Server thread/INFO]: justmartino was slain by Zombified Piglin
+[21:09:12] [Server thread/INFO]: justmartino fell from a high place
+[21:09:23] [Server thread/INFO]: HackDamonius was slain by Zombified Piglin
+[21:09:24] [Server thread/INFO]: poke_craft245 lost connection: Disconnected
+[21:09:24] [Server thread/INFO]: poke_craft245 left the game
+[21:11:50] [Server thread/INFO]: justmartino was slain by Zombified Piglin
+[21:12:07] [Server thread/INFO]: HackDamonius has made the advancement [Ol' Betsy]
+[21:12:15] [Server thread/INFO]: HackDamonius was slain by Zombified Piglin
+[21:12:34] [Server thread/INFO]: HackDamonius fell from a high place
+[21:12:40] [Server thread/INFO]: justmartino fell out of the world
+[21:15:15] [Server thread/INFO]: justmartino was slain by Zombified Piglin
+[21:19:48] [Server thread/INFO]: justmartino was slain by Zombified Piglin
+[21:55:17] [User Authenticator #2/INFO]: UUID of player Woutr33 is 9137ef6b-54a5-499b-af07-8ef36a64d8b4
+[21:55:17] [Server thread/INFO]: Woutr33 joined the game
+[21:55:17] [Server thread/INFO]: Woutr33[/213.118.169.225:60397] logged in with entity id 16025 at ([world]-137.02707381858644, 71.5, 17.048259231692093)
+[21:57:56] [Server thread/INFO]: Woutr33 fell from a high place
+[22:10:04] [Server thread/INFO]: HackDamonius fell from a high place
+[22:11:53] [Server thread/INFO]: HackDamonius fell out of the world
+[22:12:06] [Server thread/INFO]: HackDamonius lost connection: Disconnected
+[22:12:06] [Server thread/INFO]: HackDamonius left the game
+[22:13:23] [Server thread/INFO]: Woutr33 fell out of the world
+[22:51:40] [Server thread/INFO]: justmartino lost connection: Disconnected
+[22:51:40] [Server thread/INFO]: justmartino left the game
+[22:54:17] [Server thread/INFO]: Woutr33 lost connection: Disconnected
+[22:54:17] [Server thread/INFO]: Woutr33 left the game
+[23:17:50] [Server thread/INFO]: Stopping the server
+[23:17:50] [Server thread/INFO]: Stopping server
+[23:17:50] [Server thread/INFO]: Saving players
+[23:17:51] [Server thread/INFO]: Saving worlds
+[23:17:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:17:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:17:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[23:17:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:17:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[23:17:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:17:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:17:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:17:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:17:51] [Server thread/INFO]: Flushing Chunk IO
+[23:17:51] [Server thread/INFO]: Closing Thread Pool
+[23:17:51] [Server thread/INFO]: Closing Server
