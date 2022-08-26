@@ -1,30 +1,22 @@
-[00:07:43] [Server thread/INFO]: Lost_Oblivion was slain by Piglin
-[00:09:53] [Server thread/INFO]: Lost_Oblivion has made the advancement [Ol' Betsy]
-[00:09:53] [Server thread/INFO]: Lost_Oblivion has made the advancement [Take Aim]
-[00:09:55] [Server thread/INFO]: Lost_Oblivion was slain by Zombified Piglin
-[00:25:30] [Server thread/INFO]: justmartino fell out of the world
-[00:28:13] [Async Chat Thread - #4/INFO]: <Lost_Oblivion> ME LIKE FEET
-[00:36:01] [Server thread/INFO]: justmartino was killed by Witch using magic
-[00:40:46] [Server thread/INFO]: justmartino has made the advancement [Oh Shiny]
-[01:02:13] [Server thread/INFO]: Stopping the server
-[01:02:13] [Server thread/INFO]: Stopping server
-[01:02:13] [Server thread/INFO]: Saving players
-[01:02:13] [Server thread/INFO]: HackDamonius lost connection: Server closed
-[01:02:13] [Server thread/INFO]: HackDamonius left the game
-[01:02:13] [Server thread/INFO]: Lost_Oblivion lost connection: Server closed
-[01:02:13] [Server thread/INFO]: Lost_Oblivion left the game
-[01:02:13] [Server thread/INFO]: justmartino lost connection: Server closed
-[01:02:13] [Server thread/INFO]: justmartino left the game
-[01:02:13] [Server thread/INFO]: Saving worlds
-[01:02:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:02:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:02:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[01:02:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:02:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[01:02:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:02:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:02:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:02:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:02:14] [Server thread/INFO]: Flushing Chunk IO
-[01:02:14] [Server thread/INFO]: Closing Thread Pool
-[01:02:14] [Server thread/INFO]: Closing Server
+[00:07:41] [Server thread/INFO]: Lost_Oblivion lost connection: Disconnected
+[00:07:41] [Server thread/INFO]: Lost_Oblivion left the game
+[00:53:16] [Server thread/INFO]: HackDamonius issued server command: /give HackDamonius minecraft:crimson_nylium 64
+[00:53:16] [Server thread/INFO]: [HackDamonius: Gave 64 [Crimson Nylium] to HackDamonius]
+[01:49:56] [Server thread/INFO]: HackDamonius lost connection: Disconnected
+[01:49:56] [Server thread/INFO]: HackDamonius left the game
+[01:50:04] [Server thread/INFO]: Stopping the server
+[01:50:05] [Server thread/INFO]: Stopping server
+[01:50:05] [Server thread/INFO]: Saving players
+[01:50:05] [Server thread/INFO]: Saving worlds
+[01:50:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:50:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:50:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:50:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:50:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:50:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:50:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:50:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:50:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:50:05] [Server thread/INFO]: Flushing Chunk IO
+[01:50:05] [Server thread/INFO]: Closing Thread Pool
+[01:50:05] [Server thread/INFO]: Closing Server
