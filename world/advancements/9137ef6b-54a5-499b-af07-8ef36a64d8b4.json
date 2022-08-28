@@ -293,6 +293,14 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "tropical_fish": "2022-08-28 14:08:05 +0200",
+      "salmon": "2022-08-28 14:06:43 +0200",
+      "cod": "2022-08-28 10:36:01 +0200"
+    },
+    "done": false
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2022-08-24 17:55:17 +0200"
@@ -563,6 +571,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2022-08-28 10:36:01 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2022-08-25 18:26:55 +0200"
@@ -682,9 +696,11 @@
       "minecraft:skeleton": "2022-08-25 20:03:07 +0200",
       "minecraft:magma_cube": "2022-08-24 19:19:41 +0200",
       "minecraft:spider": "2022-08-25 20:25:09 +0200",
+      "minecraft:creeper": "2022-08-28 14:14:17 +0200",
       "minecraft:zombified_piglin": "2022-08-24 17:25:14 +0200",
       "minecraft:witch": "2022-08-25 19:30:12 +0200",
-      "minecraft:piglin": "2022-08-24 19:22:27 +0200"
+      "minecraft:piglin": "2022-08-24 19:22:27 +0200",
+      "minecraft:zombie": "2022-08-28 14:14:08 +0200"
     },
     "done": false
   },
@@ -871,6 +887,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2022-08-25 19:07:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2022-08-28 15:44:09 +0200"
     },
     "done": true
   },
@@ -1208,6 +1230,7 @@
     "criteria": {
       "minecraft:taiga": "2022-08-24 16:45:11 +0200",
       "minecraft:giant_tree_taiga": "2022-08-24 20:10:26 +0200",
+      "minecraft:dark_forest": "2022-08-28 10:24:28 +0200",
       "minecraft:river": "2022-08-27 12:24:14 +0200",
       "minecraft:swamp": "2022-08-25 18:51:22 +0200"
     },
@@ -1419,7 +1442,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2022-08-24 16:46:06 +0200"
+      "minecraft:nether_wastes": "2022-08-24 16:46:06 +0200",
+      "minecraft:warped_forest": "2022-08-28 15:42:40 +0200"
     },
     "done": false
   },

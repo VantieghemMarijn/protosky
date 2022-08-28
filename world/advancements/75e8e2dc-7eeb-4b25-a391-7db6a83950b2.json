@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2022-08-28 18:26:56 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2022-08-24 23:50:29 +0200"
@@ -206,6 +212,12 @@
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2022-08-24 19:56:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2022-08-28 10:31:45 +0200"
     },
     "done": true
   },
@@ -235,7 +247,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "rotten_flesh": "2022-08-24 18:43:55 +0200"
+      "tropical_fish": "2022-08-28 20:01:18 +0200",
+      "rotten_flesh": "2022-08-24 18:43:55 +0200",
+      "salmon": "2022-08-28 20:38:03 +0200",
+      "cod": "2022-08-28 10:32:26 +0200"
     },
     "done": false
   },
@@ -377,6 +392,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2022-08-28 18:26:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2022-08-24 19:55:10 +0200"
@@ -440,6 +461,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2022-08-25 23:10:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2022-08-28 20:08:45 +0200"
     },
     "done": true
   },
@@ -575,9 +602,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2022-08-28 18:26:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:magma_cube": "2022-08-24 19:10:55 +0200",
+      "minecraft:spider": "2022-08-28 18:25:53 +0200",
       "minecraft:zombified_piglin": "2022-08-24 18:42:51 +0200",
       "minecraft:piglin": "2022-08-24 18:46:11 +0200"
     },
@@ -805,6 +839,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2022-08-28 15:18:55 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-08-24 19:54:29 +0200"
@@ -820,6 +860,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2022-08-25 23:10:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2022-08-28 18:26:52 +0200"
     },
     "done": true
   },
@@ -989,6 +1035,8 @@
     "criteria": {
       "minecraft:taiga": "2022-08-24 18:39:54 +0200",
       "minecraft:giant_tree_taiga": "2022-08-24 20:37:58 +0200",
+      "minecraft:dark_forest": "2022-08-28 10:21:36 +0200",
+      "minecraft:river": "2022-08-28 10:28:47 +0200",
       "minecraft:swamp": "2022-08-24 23:50:23 +0200"
     },
     "done": false
@@ -1032,6 +1080,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2022-08-24 23:03:20 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2022-08-28 18:26:52 +0200"
     },
     "done": true
   },
@@ -1080,6 +1134,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2022-08-25 00:09:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2022-08-28 20:07:03 +0200"
     },
     "done": true
   },

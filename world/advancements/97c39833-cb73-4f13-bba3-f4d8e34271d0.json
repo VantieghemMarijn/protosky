@@ -344,7 +344,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2022-08-26 01:13:31 +0200",
-      "rotten_flesh": "2022-08-24 17:19:33 +0200"
+      "pufferfish": "2022-08-28 17:11:32 +0200",
+      "rotten_flesh": "2022-08-24 17:19:33 +0200",
+      "cod": "2022-08-28 14:14:30 +0200"
     },
     "done": false
   },
@@ -381,6 +383,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-08-24 18:36:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2022-08-28 14:14:24 +0200"
     },
     "done": true
   },
@@ -886,6 +894,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2022-08-24 18:36:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2022-08-28 14:14:24 +0200"
     },
     "done": true
   },
@@ -1556,6 +1570,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2022-08-24 23:47:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2022-08-28 14:14:24 +0200"
     },
     "done": true
   },
