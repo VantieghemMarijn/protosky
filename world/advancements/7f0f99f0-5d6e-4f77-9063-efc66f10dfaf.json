@@ -1270,6 +1270,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2022-08-27 17:32:10 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2022-08-24 20:03:52 +0200"
@@ -1443,6 +1449,7 @@
       "minecraft:taiga": "2022-08-24 16:20:39 +0200",
       "minecraft:giant_tree_taiga": "2022-08-24 16:20:54 +0200",
       "minecraft:birch_forest": "2022-08-24 16:19:52 +0200",
+      "minecraft:river": "2022-08-27 12:30:53 +0200",
       "minecraft:wooded_hills": "2022-08-24 16:15:46 +0200",
       "minecraft:swamp": "2022-08-24 16:20:13 +0200"
     },

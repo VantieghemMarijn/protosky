@@ -527,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2022-08-27 12:23:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
       "has_planks": "2022-08-24 17:41:07 +0200"
@@ -850,6 +856,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2022-08-27 23:31:38 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2022-08-24 19:24:11 +0200"
@@ -967,6 +979,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-08-26 13:19:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2022-08-27 11:56:00 +0200"
     },
     "done": true
   },
@@ -1190,6 +1208,7 @@
     "criteria": {
       "minecraft:taiga": "2022-08-24 16:45:11 +0200",
       "minecraft:giant_tree_taiga": "2022-08-24 20:10:26 +0200",
+      "minecraft:river": "2022-08-27 12:24:14 +0200",
       "minecraft:swamp": "2022-08-25 18:51:22 +0200"
     },
     "done": false
