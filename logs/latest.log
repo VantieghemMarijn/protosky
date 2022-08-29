@@ -1,336 +1,201 @@
-[10:16:09] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[10:16:10] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[10:16:10] [Worker-Main-2/INFO]: Loaded 7 recipes
-[10:16:11] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[10:16:11] [Server thread/INFO]: Loading properties
-[10:16:11] [Server thread/INFO]: This server is running Paper version git-Paper-342 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
-[10:16:11] [Server thread/INFO]: Debug logging is disabled
-[10:16:11] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[10:16:11] [Server thread/INFO]: Using 4 threads for Netty based IO
-[10:16:11] [Server thread/INFO]: Default game type: SURVIVAL
-[10:16:11] [Server thread/INFO]: Generating keypair
-[10:16:11] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:16:11] [Server thread/INFO]: Using default channel type
-[10:16:13] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[10:16:13] [Server thread/INFO]: Preparing level "world"
-[10:16:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:16:14] [Server thread/INFO]: Loaded 0 spawn chunks for world world
-[10:16:14] [Server thread/INFO]: Preparing spawn area: 0%
-[10:16:14] [Server thread/INFO]: Time elapsed: 178 ms
-[10:16:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[10:16:14] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
-[10:16:14] [Server thread/INFO]: Time elapsed: 72 ms
-[10:16:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[10:16:14] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
-[10:16:14] [Server thread/INFO]: Time elapsed: 36 ms
-[10:16:14] [Server thread/INFO]: Running delayed init tasks
-[10:16:14] [Server thread/INFO]: Done (3.115s)! For help, type "help"
-[10:16:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[10:16:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
-[10:16:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
-[10:16:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
-[10:16:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[10:16:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
-[10:16:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 11. When Paper for Minecraft 1.17 is
-[10:16:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 11 will
-[10:16:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
-[10:16:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[10:16:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 1.8.0_271
-[10:16:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[10:16:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
-[10:16:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java11
-[10:16:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[10:16:14] [Server thread/INFO]: Timings Reset
-[10:16:52] [User Authenticator #1/INFO]: UUID of player justmartino is 7f0f99f0-5d6e-4f77-9063-efc66f10dfaf
-[10:16:52] [Server thread/INFO]: justmartino joined the game
-[10:16:52] [Server thread/INFO]: justmartino[/127.0.0.1:64312] logged in with entity id 145 at ([world]-87.402639565303, 71.09375, 235.53262830971175)
-[10:17:53] [Server thread/INFO]: justmartino was slain by Zombie
-[10:20:46] [User Authenticator #2/INFO]: UUID of player Lost_Oblivion is 75e8e2dc-7eeb-4b25-a391-7db6a83950b2
-[10:20:46] [Server thread/INFO]: Lost_Oblivion joined the game
-[10:20:46] [Server thread/INFO]: Lost_Oblivion[/178.118.24.104:64257] logged in with entity id 576 at ([world]-86.96681891342148, 71.0, 242.12550000361225)
-[10:20:50] [Async Chat Thread - #0/INFO]: <Lost_Oblivion> gello
-[10:20:53] [Async Chat Thread - #0/INFO]: <justmartino> oi oi
-[10:21:01] [Async Chat Thread - #0/INFO]: <justmartino> bruv wa is da gigantisch ding ?
-[10:21:12] [Async Chat Thread - #0/INFO]: <Lost_Oblivion> welk?
-[10:21:18] [Async Chat Thread - #0/INFO]: <justmartino> ga ke na overworld
-[10:21:23] [Async Chat Thread - #0/INFO]: <Lost_Oblivion> wtf
-[10:21:38] [Async Chat Thread - #0/INFO]: <justmartino> probleem is wel not spawn proof
-[10:22:11] [Async Chat Thread - #0/INFO]: <Lost_Oblivion> wajo
-[10:23:36] [User Authenticator #3/INFO]: UUID of player Woutr33 is 9137ef6b-54a5-499b-af07-8ef36a64d8b4
-[10:23:36] [Server thread/INFO]: Woutr33 joined the game
-[10:23:36] [Server thread/INFO]: Woutr33[/213.118.169.225:58991] logged in with entity id 1291 at ([world]-171.30000001192093, 74.0, 20.638193936294726)
-[10:23:40] [Async Chat Thread - #1/INFO]: <Lost_Oblivion> bonjour
-[10:23:52] [Async Chat Thread - #1/INFO]: <justmartino> ello
-[10:24:01] [Async Chat Thread - #1/INFO]: <justmartino> call ?
-[10:24:06] [Async Chat Thread - #1/INFO]: <Lost_Oblivion> sure
-[10:24:27] [Async Chat Thread - #1/INFO]: <Lost_Oblivion> welke room?
-[10:26:21] [Server thread/INFO]: Woutr33 fell out of the world
-[10:27:22] [Async Chat Thread - #2/INFO]: <justmartino> oe ejje da
-[10:27:35] [Async Chat Thread - #2/INFO]: <justmartino> waar is dirt ?
-[10:27:47] [Async Chat Thread - #2/INFO]: <Woutr33> da is gespawned bij de witch farm pool
-[10:27:51] [Async Chat Thread - #2/INFO]: <justmartino> loll
-[10:28:20] [Async Chat Thread - #2/INFO]: <Woutr33> also demian als je vist kun je da ook doen bij de witch farm vo dubble profit
-[10:28:33] [Async Chat Thread - #2/INFO]: <Lost_Oblivion> aaaah okeeey
-[10:29:32] [Async Chat Thread - #2/INFO]: <justmartino> waar is dirt ?
-[10:29:33] [Async Chat Thread - #2/INFO]: <Woutr33> waar gaan we eig
-[10:30:02] [Async Chat Thread - #2/INFO]: <justmartino> wa bedoel je ?
-[10:30:08] [Async Chat Thread - #2/INFO]: <justmartino> kutschaap
-[10:30:16] [Async Chat Thread - #2/INFO]: <Woutr33> kwas u aant volgen
-[10:30:24] [Server thread/INFO]: justmartino issued server command: /give justmartino minecraft
-[10:30:31] [Server thread/INFO]: justmartino issued server command: /give justmartino minecraft:dirt
-[10:30:31] [Server thread/INFO]: [justmartino: Gave 1 [Dirt] to justmartino]
-[10:30:32] [Async Chat Thread - #2/INFO]: <Woutr33> waart gewoon cirkel aant lopen
-[10:30:46] [Server thread/INFO]: justmartino issued server command: /give justmartino minecraft:gras
-[10:30:49] [Server thread/INFO]: justmartino issued server command: /give justmartino minecraft:grass_block
-[10:30:49] [Server thread/INFO]: [justmartino: Gave 1 [Grass Block] to justmartino]
-[10:30:51] [Async Chat Thread - #2/INFO]: <Lost_Oblivion> magk stack dirt?
-[10:36:24] [Server thread/INFO]: Woutr33 was slain by Zombie
-[10:37:50] [Server thread/INFO]: Woutr33 was blown up by Creeper
-[10:38:02] [Server thread/INFO]: justmartino was slain by Zombified Piglin
-[10:38:23] [Server thread/INFO]: justmartino fell from a high place
-[10:38:53] [Server thread/INFO]: Woutr33 was blown up by Creeper
-[10:39:06] [Async Chat Thread - #3/INFO]: <justmartino> alles oke ?
-[10:39:22] [Async Chat Thread - #3/INFO]: <Woutr33> nee mijn vis ligt daar op de grond
-[10:39:46] [Server thread/INFO]: Woutr33 fell out of the world
-[10:40:33] [Server thread/INFO]: Woutr33 was blown up by Creeper
-[10:41:50] [Server thread/INFO]: Woutr33 fell out of the world
-[10:46:19] [Server thread/INFO]: Woutr33 fell from a high place
-[10:46:58] [Server thread/INFO]: Woutr33 lost connection: Disconnected
-[10:46:58] [Server thread/INFO]: Woutr33 left the game
-[10:49:13] [Server thread/INFO]: Lost_Oblivion was slain by Enderman
-[10:49:38] [Server thread/INFO]: Lost_Oblivion was slain by Enderman
-[10:53:03] [Server thread/INFO]: justmartino lost connection: Disconnected
-[10:53:03] [Server thread/INFO]: justmartino left the game
-[10:55:16] [User Authenticator #4/INFO]: UUID of player justmartino is 7f0f99f0-5d6e-4f77-9063-efc66f10dfaf
-[10:55:17] [Server thread/INFO]: justmartino joined the game
-[10:55:17] [Server thread/INFO]: justmartino[/127.0.0.1:62104] logged in with entity id 15448 at ([world_nether]43.413705404660114, 1.5, 339.71238843974237)
-[10:56:40] [Server thread/INFO]: justmartino was slain by Enderman
-[11:01:27] [Server thread/INFO]: justmartino has made the advancement [A Terrible Fortress]
-[11:09:10] [Server thread/INFO]: justmartino was slain by Blaze
-[11:17:01] [Server thread/INFO]: justmartino lost connection: Disconnected
-[11:17:01] [Server thread/INFO]: justmartino left the game
-[11:17:22] [User Authenticator #5/INFO]: UUID of player justmartino is 7f0f99f0-5d6e-4f77-9063-efc66f10dfaf
-[11:17:22] [Server thread/INFO]: justmartino joined the game
-[11:17:22] [Server thread/INFO]: justmartino[/127.0.0.1:63573] logged in with entity id 43071 at ([world_nether]46.00129223444031, 68.0, 363.03261178497746)
-[11:19:33] [Server thread/INFO]: justmartino has made the advancement [Into Fire]
-[11:44:11] [Server thread/INFO]: justmartino fell from a high place
-[11:47:09] [Server thread/INFO]: justmartino fell out of the world
-[11:51:26] [Server thread/INFO]: justmartino was shot by Piglin
-[11:51:52] [Server thread/INFO]: justmartino issued server command: /spawnpoint
-[11:51:52] [Server thread/INFO]: [justmartino: Set spawn point to -10, 2, 21 [0.0] in minecraft:the_nether for justmartino]
-[11:52:44] [Server thread/INFO]: justmartino was slain by Zombified Piglin
-[12:26:24] [Server thread/INFO]: justmartino issued server command: /gamerule randomTickSpeed 30
-[12:26:24] [Server thread/INFO]: [justmartino: Gamerule randomTickSpeed is now set to: 30]
-[13:35:43] [User Authenticator #6/INFO]: UUID of player Woutr33 is 9137ef6b-54a5-499b-af07-8ef36a64d8b4
-[13:35:43] [Server thread/INFO]: Woutr33 joined the game
-[13:35:43] [Server thread/INFO]: Woutr33[/213.118.169.225:57601] logged in with entity id 92034 at ([world]-145.35151718492517, 29.5, 19.075960813075756)
-[13:37:18] [Server thread/INFO]: Woutr33 fell out of the world
-[13:38:46] [Server thread/INFO]: Lost_Oblivion drowned
-[13:40:19] [User Authenticator #7/INFO]: UUID of player HackDamonius is 97c39833-cb73-4f13-bba3-f4d8e34271d0
-[13:40:19] [Server thread/INFO]: HackDamonius joined the game
-[13:40:19] [Server thread/INFO]: HackDamonius[/178.117.9.224:53143] logged in with entity id 93186 at ([world_nether]-12.566905748273973, 69.5, 26.347704553486867)
-[13:40:27] [Server thread/INFO]: justmartino was slain by Woutr33
-[13:40:33] [Async Chat Thread - #4/INFO]: <HackDamonius> ...
-[13:47:15] [User Authenticator #8/INFO]: UUID of player xXLegend_EliasXx is d75d14ea-1c27-492d-9e7e-c0d9d7248b2d
-[13:47:15] [Server thread/INFO]: xXLegend_EliasXx joined the game
-[13:47:15] [Server thread/INFO]: xXLegend_EliasXx[/213.118.227.191:58669] logged in with entity id 95893 at ([world]-87.56735405626854, 70.0, 244.24991357476037)
-[13:48:31] [Async Chat Thread - #5/INFO]: <Woutr33> danke
-[13:48:41] [Async Chat Thread - #5/INFO]: <xXLegend_EliasXx> np
-[13:48:57] [Async Chat Thread - #5/INFO]: <xXLegend_EliasXx> laat wetn aje goeie dingen krijgt
-[13:49:05] [Async Chat Thread - #5/INFO]: <Woutr33> zal ik doen
-[13:49:22] [Async Chat Thread - #5/INFO]: <xXLegend_EliasXx> extreem groot schaakbord aant maken ?
-[13:49:53] [Async Chat Thread - #5/INFO]: <Woutr33> nee zebben iets doms gedaan en da gemaakt om nie dom te lijken
-[13:50:05] [Async Chat Thread - #5/INFO]: <xXLegend_EliasXx> aahh
-[13:50:10] [Server thread/INFO]: xXLegend_EliasXx lost connection: Disconnected
-[13:50:10] [Server thread/INFO]: xXLegend_EliasXx left the game
-[14:10:12] [Server thread/INFO]: justmartino was shot by Woutr33
-[14:11:46] [Server thread/INFO]: justmartino was shot by Woutr33
-[14:19:31] [Server thread/INFO]: Lost_Oblivion fell from a high place
-[14:20:28] [Server thread/INFO]: Lost_Oblivion fell out of the world
-[14:25:28] [Server thread/INFO]: Woutr33 fell out of the world
-[14:25:33] [Server thread/INFO]: Woutr33 lost connection: Disconnected
-[14:25:33] [Server thread/INFO]: Woutr33 left the game
-[14:27:03] [Server thread/INFO]: HackDamonius lost connection: Disconnected
-[14:27:03] [Server thread/INFO]: HackDamonius left the game
-[14:43:38] [Server thread/INFO]: Lost_Oblivion didn't want to live in the same world as Magma Cube
-[14:50:54] [User Authenticator #9/INFO]: UUID of player poke_craft245 is 0ed85f74-32e8-431c-91f2-e60507e71871
-[14:50:54] [Server thread/INFO]: poke_craft245 joined the game
-[14:50:54] [Server thread/INFO]: poke_craft245[/91.180.9.155:62507] logged in with entity id 124220 at ([world]-84.69999998807907, 70.0, 239.2481690573854)
-[14:52:24] [Server thread/INFO]: poke_craft245 was slain by Enderman
-[14:53:18] [User Authenticator #10/INFO]: UUID of player HackDamonius is 97c39833-cb73-4f13-bba3-f4d8e34271d0
-[14:53:18] [Server thread/INFO]: HackDamonius joined the game
-[14:53:18] [Server thread/INFO]: HackDamonius[/178.117.9.224:53859] logged in with entity id 125388 at ([world_nether]-11.399595880548548, 1.5, 16.78514031898432)
-[14:59:04] [Server thread/INFO]: Lost_Oblivion was slain by Zombified Piglin
-[14:59:31] [Server thread/INFO]: Lost_Oblivion was slain by Zombified Piglin
-[15:00:39] [Server thread/INFO]: Lost_Oblivion didn't want to live in the same world as Zombified Piglin
-[15:01:10] [Server thread/INFO]: Lost_Oblivion was slain by Zombified Piglin
-[15:01:47] [Server thread/INFO]: Lost_Oblivion was slain by Zombified Piglin
-[15:02:47] [User Authenticator #11/INFO]: UUID of player pig_spy is 7fa0b792-3bb4-443f-8015-a50d8b9d76e5
-[15:02:47] [Server thread/INFO]: pig_spy joined the game
-[15:02:47] [Server thread/INFO]: pig_spy[/178.118.17.97:54461] logged in with entity id 128417 at ([world_nether]-11.270347224686759, 69.5, 26.842939476727658)
-[15:04:25] [Server thread/INFO]: Lost_Oblivion was slain by Zombified Piglin
-[15:08:06] [Server thread/INFO]: HackDamonius fell out of the world
-[15:10:55] [Server thread/INFO]: poke_craft245 was slain by Zombified Piglin
-[15:11:20] [Server thread/INFO]: poke_craft245 was slain by Zombified Piglin
-[15:11:25] [Server thread/INFO]: Lost_Oblivion was slain by Zombified Piglin
-[15:11:52] [Server thread/INFO]: poke_craft245 was slain by Enderman
-[15:13:13] [Server thread/INFO]: justmartino was slain by Enderman
-[15:14:57] [Server thread/INFO]: poke_craft245 was slain by Lost_Oblivion
-[15:30:21] [Server thread/INFO]: poke_craft245 was slain by Zombified Piglin
-[15:30:47] [Server thread/INFO]: HackDamonius lost connection: Disconnected
-[15:30:47] [Server thread/INFO]: HackDamonius left the game
-[15:37:59] [User Authenticator #12/INFO]: UUID of player Woutr33 is 9137ef6b-54a5-499b-af07-8ef36a64d8b4
-[15:37:59] [Server thread/INFO]: Woutr33 joined the game
-[15:37:59] [Server thread/INFO]: Woutr33[/213.118.169.225:62934] logged in with entity id 141530 at ([world]-170.5, 71.5, 22.5)
-[15:44:09] [Server thread/INFO]: Woutr33 has made the advancement [A Terrible Fortress]
-[15:44:48] [Server thread/INFO]: Woutr33 fell from a high place
-[15:45:33] [Server thread/INFO]: poke_craft245 was slain by Zombified Piglin
-[15:46:53] [Server thread/INFO]: poke_craft245 lost connection: Disconnected
-[15:46:53] [Server thread/INFO]: poke_craft245 left the game
-[15:51:28] [Server thread/INFO]: Woutr33 was slain by Wither Skeleton
-[15:53:07] [Server thread/INFO]: Woutr33 lost connection: Disconnected
-[15:53:07] [Server thread/INFO]: Woutr33 left the game
-[15:58:56] [Server thread/INFO]: pig_spy lost connection: Disconnected
-[15:58:56] [Server thread/INFO]: pig_spy left the game
-[16:16:27] [User Authenticator #13/INFO]: UUID of player Woutr33 is 9137ef6b-54a5-499b-af07-8ef36a64d8b4
-[16:16:27] [Server thread/INFO]: Woutr33 joined the game
-[16:16:27] [Server thread/INFO]: Woutr33[/213.118.169.225:55107] logged in with entity id 148438 at ([world_nether]-11.413518979377324, 1.5, 16.540192740212095)
-[16:16:46] [Server thread/INFO]: Woutr33 lost connection: Disconnected
-[16:16:46] [Server thread/INFO]: Woutr33 left the game
-[16:58:44] [User Authenticator #14/INFO]: UUID of player pig_spy is 7fa0b792-3bb4-443f-8015-a50d8b9d76e5
-[16:58:44] [Server thread/INFO]: pig_spy joined the game
-[16:58:44] [Server thread/INFO]: pig_spy[/178.118.17.97:62569] logged in with entity id 150222 at ([world_nether]-7.300000011920929, 69.5, 22.30000001192093)
-[16:59:16] [Async Chat Thread - #6/INFO]: <pig_spy> mending fishing rod zit in chest
-[16:59:21] [Server thread/INFO]: pig_spy lost connection: Disconnected
-[16:59:21] [Server thread/INFO]: pig_spy left the game
-[17:07:36] [User Authenticator #15/INFO]: UUID of player Woutr33 is 9137ef6b-54a5-499b-af07-8ef36a64d8b4
-[17:07:36] [Server thread/INFO]: Woutr33 joined the game
-[17:07:36] [Server thread/INFO]: Woutr33[/213.118.169.225:56377] logged in with entity id 150412 at ([world]-87.35937823100535, 71.0, 242.1625563087163)
-[17:07:54] [User Authenticator #15/INFO]: UUID of player xXLegend_EliasXx is d75d14ea-1c27-492d-9e7e-c0d9d7248b2d
-[17:07:54] [Server thread/INFO]: xXLegend_EliasXx joined the game
-[17:07:54] [Server thread/INFO]: xXLegend_EliasXx[/213.118.227.191:61969] logged in with entity id 150427 at ([world]19.51101103216527, 62.5, 24.01071521040424)
-[17:09:37] [Server thread/INFO]: justmartino lost connection: Disconnected
-[17:09:37] [Server thread/INFO]: justmartino left the game
-[17:10:01] [User Authenticator #16/INFO]: UUID of player HackDamonius is 97c39833-cb73-4f13-bba3-f4d8e34271d0
-[17:10:01] [Server thread/INFO]: HackDamonius joined the game
-[17:10:01] [Server thread/INFO]: HackDamonius[/178.117.9.224:56900] logged in with entity id 150716 at ([world_nether]-14.430962289853955, 69.5, 25.037741394320804)
-[17:11:39] [Server thread/INFO]: Lost_Oblivion was slain by Zombie
-[17:12:09] [Server thread/INFO]: Lost_Oblivion lost connection: Timed out
-[17:12:09] [Server thread/INFO]: Lost_Oblivion left the game
-[17:16:11] [Server thread/INFO]: HackDamonius lost connection: Disconnected
-[17:16:11] [Server thread/INFO]: HackDamonius left the game
-[17:22:49] [Server thread/INFO]: com.mojang.authlib.GameProfile@7bdbe24e[id=<null>,name=justmartino,properties={},legacy=false] (/94.110.132.205:65332) lost connection: Disconnected
-[17:23:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@7055191d[id=<null>,name=justmartino,properties={},legacy=false] (/192.168.0.146:65341) lost connection: Disconnected
-[17:23:31] [Server thread/INFO]: xXLegend_EliasXx lost connection: Disconnected
-[17:23:31] [Server thread/INFO]: xXLegend_EliasXx left the game
-[17:23:43] [User Authenticator #17/INFO]: UUID of player justmartino is 7f0f99f0-5d6e-4f77-9063-efc66f10dfaf
-[17:23:43] [Server thread/INFO]: justmartino joined the game
-[17:23:43] [Server thread/INFO]: justmartino[/192.168.0.146:49232] logged in with entity id 152260 at ([world]-170.30000001192093, 69.5, 23.539650368925685)
-[17:23:50] [Async Chat Thread - #7/INFO]: <justmartino> i am back
-[17:23:57] [Async Chat Thread - #7/INFO]: <justmartino> where the rest at ?
-[17:24:01] [Async Chat Thread - #7/INFO]: <Woutr33> weg
-[17:24:12] [Async Chat Thread - #7/INFO]: <justmartino> ooh
-[17:25:22] [Async Chat Thread - #8/INFO]: <justmartino> lag ?
-[17:25:27] [Server thread/INFO]: justmartino lost connection: Disconnected
-[17:25:27] [Server thread/INFO]: justmartino left the game
-[17:25:40] [User Authenticator #18/INFO]: UUID of player justmartino is 7f0f99f0-5d6e-4f77-9063-efc66f10dfaf
-[17:25:40] [Server thread/INFO]: justmartino joined the game
-[17:25:40] [Server thread/INFO]: justmartino[/192.168.0.146:49404] logged in with entity id 152294 at ([world]-145.3262599104265, 28.5, 22.552800138683633)
-[17:26:13] [Server thread/INFO]: justmartino issued server command: /tps
-[17:26:50] [Server thread/INFO]: justmartino lost connection: Disconnected
-[17:26:50] [Server thread/INFO]: justmartino left the game
-[17:26:58] [User Authenticator #19/INFO]: UUID of player HackDamonius is 97c39833-cb73-4f13-bba3-f4d8e34271d0
-[17:26:58] [Server thread/INFO]: HackDamonius joined the game
-[17:26:58] [Server thread/INFO]: HackDamonius[/178.117.9.224:57335] logged in with entity id 152337 at ([world_nether]-10.76715884285618, 70.0, 19.28932565631925)
-[17:26:58] [User Authenticator #20/INFO]: UUID of player justmartino is 7f0f99f0-5d6e-4f77-9063-efc66f10dfaf
-[17:26:58] [Server thread/INFO]: justmartino joined the game
-[17:26:58] [Server thread/INFO]: justmartino[/94.110.132.205:49434] logged in with entity id 152343 at ([world_nether]-17.920787252531426, 70.0, 2.5)
-[17:27:17] [Async Chat Thread - #9/INFO]: <HackDamonius> works fine for me
-[17:27:23] [Async Chat Thread - #9/INFO]: <HackDamonius> if you can read this message
-[17:27:32] [Async Chat Thread - #9/INFO]: <justmartino> yes
-[17:27:35] [Async Chat Thread - #9/INFO]: <justmartino> beire werid
-[17:27:40] [Async Chat Thread - #9/INFO]: <justmartino> srry for storen
-[17:30:10] [Server thread/INFO]: HackDamonius lost connection: Disconnected
-[17:30:10] [Server thread/INFO]: HackDamonius left the game
-[17:57:38] [Server thread/INFO]: justmartino lost connection: Disconnected
-[17:57:38] [Server thread/INFO]: justmartino left the game
-[18:04:55] [Server thread/INFO]: Woutr33 lost connection: Disconnected
-[18:04:55] [Server thread/INFO]: Woutr33 left the game
-[18:25:11] [User Authenticator #21/INFO]: UUID of player Lost_Oblivion is 75e8e2dc-7eeb-4b25-a391-7db6a83950b2
-[18:25:11] [Server thread/INFO]: Lost_Oblivion joined the game
-[18:25:11] [Server thread/INFO]: Lost_Oblivion[/178.118.24.104:50096] logged in with entity id 155380 at ([world]-170.69999998807907, 69.5, 18.300000011920933)
-[18:25:21] [Async Chat Thread - #10/INFO]: <Lost_Oblivion> gello?
-[18:28:44] [Server thread/INFO]: Lost_Oblivion fell out of the world
-[18:37:18] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[18:37:18] [Server thread/INFO]: msg<--[HERE]
-[18:37:32] [Server thread/INFO]: You whisper to Lost_Oblivion: kga eerst moeten eten
-[18:37:41] [Async Chat Thread - #11/INFO]: <Lost_Oblivion> is goed hoor
-[18:37:42] [Server thread/INFO]: You whisper to Lost_Oblivion: der achter gaak terug kunnen
-[18:38:01] [Server thread/INFO]: You whisper to Lost_Oblivion: spooky messages that come from nowhere
-[18:38:10] [Async Chat Thread - #11/INFO]: <Lost_Oblivion> phahahhah
-[18:39:29] [Async Chat Thread - #12/INFO]: <Lost_Oblivion> marijn zije der nog?
-[18:40:19] [Async Chat Thread - #12/INFO]: <Lost_Oblivion> we gaan nieuwe crimson dinges nodig hebben voor die bomen te spauwnen
-[18:44:20] [Server thread/INFO]: Lost_Oblivion fell from a high place
-[20:08:45] [Server thread/INFO]: Lost_Oblivion has made the advancement [Sweet Dreams]
-[20:27:52] [User Authenticator #22/INFO]: UUID of player justmartino is 7f0f99f0-5d6e-4f77-9063-efc66f10dfaf
-[20:27:52] [Server thread/INFO]: justmartino joined the game
-[20:27:52] [Server thread/INFO]: justmartino[/94.110.132.205:64396] logged in with entity id 163205 at ([world]-128.69999998807907, 2.0, 237.50201422359183)
-[20:27:56] [Async Chat Thread - #13/INFO]: <Lost_Oblivion> bonjour
-[20:27:56] [Async Chat Thread - #13/INFO]: <justmartino> ello
-[20:28:01] [Async Chat Thread - #13/INFO]: <justmartino> you not speak ?
-[20:29:04] [Server thread/INFO]: justmartino fell from a high place
-[20:29:17] [Server thread/INFO]: justmartino fell from a high place
-[20:30:33] [Server thread/INFO]: justmartino fell out of the world
-[20:31:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@6a147191[id=<null>,name=Woutr33,properties={},legacy=false] (/213.118.169.225:55289) lost connection: Disconnected
-[20:31:16] [User Authenticator #23/INFO]: UUID of player Woutr33 is 9137ef6b-54a5-499b-af07-8ef36a64d8b4
-[20:31:16] [Server thread/INFO]: Woutr33 joined the game
-[20:31:16] [Server thread/INFO]: Woutr33[/213.118.169.225:55300] logged in with entity id 163321 at ([world]-171.30000001192093, 74.0, 20.35031339379586)
-[20:35:38] [Async Chat Thread - #14/INFO]: <Woutr33> demian moeje mending fishing rod ebben
-[20:35:42] [Async Chat Thread - #14/INFO]: <Lost_Oblivion> yesss
-[20:35:45] [Async Chat Thread - #14/INFO]: <Lost_Oblivion> plzzz
-[20:35:49] [Async Chat Thread - #14/INFO]: <Woutr33> keb een betere gefished
-[20:36:20] [Async Chat Thread - #14/INFO]: <Lost_Oblivion> where you at
-[20:36:27] [Async Chat Thread - #14/INFO]: <Woutr33> witch faarm
-[20:36:44] [Async Chat Thread - #14/INFO]: <Lost_Oblivion> cumming
-[20:37:41] [Async Chat Thread - #14/INFO]: <Lost_Oblivion> thanksss
-[20:37:51] [Async Chat Thread - #14/INFO]: <Lost_Oblivion> kga combinen
-[20:41:07] [Async Chat Thread - #15/INFO]: <justmartino> wout welke fishin rod ejje gij ?
-[20:41:26] [Async Chat Thread - #15/INFO]: <Woutr33> lure 2 mending unbreaking 3
-[20:57:40] [Async Chat Thread - #16/INFO]: <Woutr33> ik ga stoppen
-[20:57:45] [Async Chat Thread - #16/INFO]: <Woutr33> dag
-[20:57:48] [Async Chat Thread - #16/INFO]: <justmartino> cvatjes yoo
-[20:57:49] [Server thread/INFO]: Woutr33 lost connection: Disconnected
-[20:57:49] [Server thread/INFO]: Woutr33 left the game
-[20:59:20] [Server thread/INFO]: Lost_Oblivion lost connection: Disconnected
-[20:59:20] [Server thread/INFO]: Lost_Oblivion left the game
-[21:16:32] [Server thread/INFO]: justmartino fell from a high place
-[21:19:46] [Server thread/INFO]: justmartino lost connection: Disconnected
-[21:19:46] [Server thread/INFO]: justmartino left the game
-[21:59:07] [User Authenticator #24/INFO]: UUID of player justmartino is 7f0f99f0-5d6e-4f77-9063-efc66f10dfaf
-[21:59:07] [Server thread/INFO]: justmartino joined the game
-[21:59:07] [Server thread/INFO]: justmartino[/127.0.0.1:60115] logged in with entity id 168968 at ([world]-141.69999998807907, 1.0, 44.21944885971826)
-[22:08:27] [Server thread/INFO]: justmartino was slain by Zombified Piglin
-[22:44:52] [User Authenticator #25/INFO]: UUID of player Lost_Oblivion is 75e8e2dc-7eeb-4b25-a391-7db6a83950b2
-[22:44:52] [Server thread/INFO]: Lost_Oblivion joined the game
-[22:44:53] [Server thread/INFO]: Lost_Oblivion[/178.118.24.104:51701] logged in with entity id 179970 at ([world]-172.75477218911948, 74.0, 18.103367191090637)
-[22:44:56] [Async Chat Thread - #17/INFO]: <Lost_Oblivion> gello
-[22:46:10] [Server thread/INFO]: Lost_Oblivion lost connection: Disconnected
-[22:46:10] [Server thread/INFO]: Lost_Oblivion left the game
-[22:59:56] [Server thread/INFO]: justmartino lost connection: Disconnected
-[22:59:56] [Server thread/INFO]: justmartino left the game
-[23:00:01] [Server thread/INFO]: Stopping the server
-[23:00:02] [Server thread/INFO]: Stopping server
-[23:00:02] [Server thread/INFO]: Saving players
-[23:00:02] [Server thread/INFO]: Saving worlds
-[23:00:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:00:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[23:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:00:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[23:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:00:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:00:02] [Server thread/INFO]: Flushing Chunk IO
-[23:00:02] [Server thread/INFO]: Closing Thread Pool
-[23:00:02] [Server thread/INFO]: Closing Server
+[01:18:48] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01:18:49] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[01:18:49] [Worker-Main-5/INFO]: Loaded 7 recipes
+[01:18:49] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[01:18:49] [Server thread/INFO]: Loading properties
+[01:18:49] [Server thread/INFO]: This server is running Paper version git-Paper-342 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[01:18:49] [Server thread/INFO]: Debug logging is disabled
+[01:18:49] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:18:49] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:18:50] [Server thread/INFO]: Default game type: SURVIVAL
+[01:18:50] [Server thread/INFO]: Generating keypair
+[01:18:50] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:18:50] [Server thread/INFO]: Using default channel type
+[01:18:50] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[01:18:50] [Server thread/INFO]: Preparing level "world"
+[01:18:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:18:51] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[01:18:51] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:51] [Server thread/INFO]: Time elapsed: 236 ms
+[01:18:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:18:51] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[01:18:51] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:51] [Server thread/INFO]: Time elapsed: 107 ms
+[01:18:51] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:18:51] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[01:18:51] [Server thread/INFO]: Preparing spawn area: 0%
+[01:18:51] [Server thread/INFO]: Time elapsed: 475 ms
+[01:18:51] [Server thread/INFO]: Running delayed init tasks
+[01:18:51] [Server thread/INFO]: Done (1.995s)! For help, type "help"
+[01:18:51] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[01:18:51] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[01:18:51] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[01:18:51] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[01:18:51] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[01:18:51] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[01:18:51] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 11. When Paper for Minecraft 1.17 is
+[01:18:51] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 11 will
+[01:18:51] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[01:18:51] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[01:18:51] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 1.8.0_201
+[01:18:51] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[01:18:51] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[01:18:51] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java11
+[01:18:51] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[01:18:51] [Server thread/INFO]: Timings Reset
+[01:19:55] [User Authenticator #1/INFO]: UUID of player poke_craft245 is 0ed85f74-32e8-431c-91f2-e60507e71871
+[01:19:55] [Server thread/INFO]: poke_craft245 joined the game
+[01:19:55] [Server thread/INFO]: poke_craft245[/91.180.9.155:61415] logged in with entity id 123 at ([world_nether]-10.69999998807907, 2.0, 22.51249998807907)
+[01:33:49] [Server thread/INFO]: poke_craft245 lost connection: Disconnected
+[01:33:49] [Server thread/INFO]: poke_craft245 left the game
+[02:00:50] [User Authenticator #2/INFO]: UUID of player HackDamonius is 97c39833-cb73-4f13-bba3-f4d8e34271d0
+[02:00:50] [Server thread/INFO]: HackDamonius joined the game
+[02:00:50] [Server thread/INFO]: HackDamonius[/127.0.0.1:62652] logged in with entity id 1554 at ([world_nether]-8.273608468810885, 1.5, 19.951387880495936)
+[02:03:39] [Server thread/INFO]: HackDamonius has made the advancement [A Terrible Fortress]
+[02:17:30] [Server thread/INFO]: HackDamonius has made the advancement [Into Fire]
+[02:33:05] [Server thread/INFO]: HackDamonius was slain by Zombified Piglin
+[02:54:32] [Server thread/INFO]: HackDamonius was fireballed by Blaze
+[02:56:22] [Server thread/INFO]: HackDamonius was slain by Zombified Piglin
+[02:59:32] [Server thread/INFO]: HackDamonius fell from a high place
+[03:06:41] [Server thread/INFO]: HackDamonius lost connection: Disconnected
+[03:06:41] [Server thread/INFO]: HackDamonius left the game
+[03:06:51] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[03:06:54] [Server thread/INFO]: --------- Help: Index ---------------------------
+[03:06:54] [Server thread/INFO]: Use /help [n] to get page n of help.
+[03:06:54] [Server thread/INFO]: Aliases: Lists command aliases
+[03:06:54] [Server thread/INFO]: Bukkit: All commands for Bukkit
+[03:06:54] [Server thread/INFO]: Minecraft: All commands for Minecraft
+[03:06:54] [Server thread/INFO]: /advancement: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /attribute: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /ban: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /ban-ip: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /banlist: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /bossbar: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /clear: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /clone: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /data: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /datapack: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /debug: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /defaultgamemode: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /deop: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /difficulty: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /effect: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /enchant: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /execute: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /experience: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /fill: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /forceload: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /function: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /gamemode: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /gamerule: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /give: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /help: Shows the help menu
+[03:06:54] [Server thread/INFO]: /kick: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /kill: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /list: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /locate: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /locatebiome: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /loot: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /me: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /minecraft:help: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /minecraft:reload: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /msg: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /mspt: View server tick times
+[03:06:54] [Server thread/INFO]: /op: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /paper: Paper related commands
+[03:06:54] [Server thread/INFO]: /pardon: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /pardon-ip: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /particle: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /playsound: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+[03:06:54] [Server thread/INFO]: /recipe: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+[03:06:54] [Server thread/INFO]: /replaceitem: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /restart: Restarts the server
+[03:06:54] [Server thread/INFO]: /save-all: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /save-off: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /save-on: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /say: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /schedule: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /scoreboard: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /seed: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /setblock: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /setidletimeout: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /setworldspawn: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /spawnpoint: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /spectate: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /spigot: Spigot related commands
+[03:06:54] [Server thread/INFO]: /spreadplayers: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /stop: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /stopsound: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /summon: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /tag: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /team: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /teammsg: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /teleport: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /tell: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /tellraw: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /time: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /timings: Manages Spigot Timings data to see performance of the server.
+[03:06:54] [Server thread/INFO]: /title: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /tm: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /tp: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /tps: Gets the current ticks per second for the server
+[03:06:54] [Server thread/INFO]: /trigger: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+[03:06:54] [Server thread/INFO]: /w: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /weather: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /whitelist: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /worldborder: A Mojang provided command.
+[03:06:54] [Server thread/INFO]: /xp: A Mojang provided command.
+[03:09:32] [User Authenticator #3/INFO]: UUID of player HackDamonius is 97c39833-cb73-4f13-bba3-f4d8e34271d0
+[03:09:32] [Server thread/INFO]: HackDamonius joined the game
+[03:09:32] [Server thread/INFO]: HackDamonius[/127.0.0.1:63132] logged in with entity id 25556 at ([world_nether]-8.13726634796224, -44.55647506004192, 10.624848439426616)
+[03:09:33] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[03:09:34] [Server thread/INFO]: HackDamonius fell out of the world
+[03:10:06] [Server thread/INFO]: HackDamonius issued server command: /tp HackDamonius 0 100 0
+[03:10:06] [Server thread/INFO]: [HackDamonius: Teleported HackDamonius to 0.5, 100.0, 0.5]
+[03:10:12] [Server thread/INFO]: HackDamonius fell out of the world
+[03:14:51] [User Authenticator #4/INFO]: UUID of player poke_craft245 is 0ed85f74-32e8-431c-91f2-e60507e71871
+[03:14:51] [Server thread/INFO]: poke_craft245 joined the game
+[03:14:51] [Server thread/INFO]: poke_craft245[/91.180.9.155:55763] logged in with entity id 28366 at ([world_nether]-8.699999988079064, 2.0, 23.37222990855132)
+[03:15:30] [Async Chat Thread - #0/INFO]: <HackDamonius> join call
+[03:15:48] [Async Chat Thread - #0/INFO]: <HackDamonius> join call anders
+[03:15:49] [Async Chat Thread - #0/INFO]: <poke_craft245> am with robbe in call as well tho
+[03:15:54] [Async Chat Thread - #0/INFO]: <HackDamonius> ahh
+[03:16:19] [Async Chat Thread - #0/INFO]: <HackDamonius> kan anders jullie call joinen? kobe not really doin anythin
+[03:21:30] [Server thread/INFO]: poke_craft245 was slain by Zombified Piglin
+[03:25:35] [Server thread/INFO]: poke_craft245 has made the advancement [A Terrible Fortress]
+[03:31:21] [Server thread/INFO]: HackDamonius didn't want to live in the same world as Magma Cube
+[03:41:44] [Server thread/INFO]: poke_craft245 has made the advancement [Into Fire]
+[03:42:27] [Server thread/INFO]: poke_craft245 was slain by Wither Skeleton
+[03:45:57] [Server thread/INFO]: HackDamonius has made the advancement [Spooky Scary Skeleton]
+[03:46:56] [Server thread/INFO]: HackDamonius has made the advancement [Take Aim]
+[03:47:39] [Server thread/INFO]: poke_craft245 was slain by Zombified Piglin
+[03:56:50] [Server thread/INFO]: poke_craft245 was slain by Enderman
+[03:56:58] [Server thread/INFO]: HackDamonius was slain by Enderman
+[03:58:34] [Server thread/INFO]: poke_craft245 has made the advancement [Spooky Scary Skeleton]
+[03:59:13] [Server thread/INFO]: HackDamonius was fireballed by Blaze
+[04:05:01] [Server thread/INFO]: poke_craft245 burned to death
+[04:06:28] [Server thread/INFO]: HackDamonius was burnt to a crisp whilst fighting Blaze
+[04:14:25] [Server thread/INFO]: HackDamonius was slain by Enderman
+[04:14:59] [Server thread/INFO]: HackDamonius lost connection: Disconnected
+[04:14:59] [Server thread/INFO]: HackDamonius left the game
+[04:15:58] [Server thread/INFO]: poke_craft245 lost connection: Disconnected
+[04:15:58] [Server thread/INFO]: poke_craft245 left the game
+[04:16:54] [Server thread/INFO]: Stopping the server
+[04:16:54] [Server thread/INFO]: Stopping server
+[04:16:54] [Server thread/INFO]: Saving players
+[04:16:54] [Server thread/INFO]: Saving worlds
+[04:16:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:16:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:16:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[04:16:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:16:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[04:16:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:16:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:16:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:16:55] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:16:55] [Server thread/INFO]: Flushing Chunk IO
+[04:16:55] [Server thread/INFO]: Closing Thread Pool
+[04:16:55] [Server thread/INFO]: Closing Server
