@@ -37,7 +37,7 @@ settings:
       author: 8192
       page: 16384
   chunk-loading:
-    min-load-radius: 2
+    min-load-radius: 3
     max-concurrent-sends: 2
     autoconfig-send-distance: true
     target-player-chunk-send-rate: 100.0
@@ -322,7 +322,7 @@ world-settings:
         max: 40
     fishing-time-range:
       MinimumTicks: 100
-      MaximumTicks: 600
+      MaximumTicks: 500
     despawn-ranges:
       monster:
         soft: 32

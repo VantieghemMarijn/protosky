@@ -1,83 +1,37 @@
-[14:09:23] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:09:25] [Worker-Main-1/INFO]: Loaded 7 recipes
-[14:09:26] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[14:09:26] [Server thread/INFO]: Loading properties
-[14:09:26] [Server thread/INFO]: This server is running Paper version git-Paper-387 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT) (Git: df630a2 on ver/1.18.2)
-[14:09:26] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[14:09:26] [Server thread/INFO]: Using 4 threads for Netty based IO
-[14:09:26] [Server thread/INFO]: Default game type: SURVIVAL
-[14:09:26] [Server thread/INFO]: Generating keypair
-[14:09:26] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:09:26] [Server thread/INFO]: Using default channel type
-[14:09:27] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
-[14:09:27] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
-[14:09:28] [Server thread/INFO]: [FastAsyncWorldEdit] Loading FastAsyncWorldEdit v2.4.5-SNAPSHOT-273;8233f13
-[14:09:28] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@6967c86a]
-[14:09:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[14:09:28] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.4.5-SNAPSHOT-273;8233f13
-[14:09:28] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
-[14:09:28] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
-[14:09:29] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[14:09:29] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[14:09:29] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_18_R2.PaperweightFaweAdapter as the Bukkit adapter
-[14:09:30] [Server thread/INFO]: Preparing level "world"
-[14:09:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:09:37] [Server thread/INFO]: Time elapsed: 195 ms
-[14:09:37] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[14:09:37] [Server thread/INFO]: Time elapsed: 84 ms
-[14:09:37] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[14:09:37] [Server thread/INFO]: Time elapsed: 78 ms
-[14:09:37] [Server thread/INFO]: Running delayed init tasks
-[14:09:37] [Server thread/INFO]: Done (11.169s)! For help, type "help"
-[14:09:37] [Server thread/INFO]: Timings Reset
-[14:09:40] [User Authenticator #1/INFO]: UUID of player justmartino is 7f0f99f0-5d6e-4f77-9063-efc66f10dfaf
-[14:09:41] [Server thread/INFO]: justmartino joined the game
-[14:09:41] [Server thread/INFO]: justmartino[/127.0.0.1:61076] logged in with entity id 5 at ([world]-46.69999998807907, 63.0, 128.69999998807907)
-[14:16:15] [Server thread/INFO]: justmartino issued server command: /time set night
-[14:16:15] [Server thread/INFO]: [justmartino: Set the time to 13000]
-[14:20:46] [Server thread/INFO]: justmartino issued server command: /give justmartino minecraft:piston
-[14:20:46] [Server thread/INFO]: [justmartino: Gave 1 [Piston] to justmartino]
-[14:23:14] [Server thread/INFO]: justmartino issued server command: /give justmartino minecraft:grass
-[14:23:14] [Server thread/INFO]: [justmartino: Gave 1 [Grass] to justmartino]
-[14:23:18] [Server thread/INFO]: justmartino issued server command: /give justmartino minecraft:grass_block
-[14:23:18] [Server thread/INFO]: [justmartino: Gave 1 [Grass Block] to justmartino]
-[14:24:08] [Server thread/INFO]: justmartino issued server command: /time set day
-[14:24:08] [Server thread/INFO]: [justmartino: Set the time to 1000]
-[14:27:49] [Server thread/INFO]: justmartino issued server command: /give justmartino minecraft:crimson_trapdoor
-[14:27:49] [Server thread/INFO]: [justmartino: Gave 1 [Crimson Trapdoor] to justmartino]
-[14:34:39] [Server thread/INFO]: justmartino issued server command: /give justmartino snow
-[14:34:39] [Server thread/INFO]: [justmartino: Gave 1 [Snow] to justmartino]
-[14:39:04] [Server thread/INFO]: justmartino issued server command: /give justmartino minecraft:piston
-[14:39:04] [Server thread/INFO]: [justmartino: Gave 1 [Piston] to justmartino]
-[14:39:39] [Server thread/INFO]: justmartino issued server command: /give justmartino minecraft:piston
-[14:39:39] [Server thread/INFO]: [justmartino: Gave 1 [Piston] to justmartino]
-[14:42:38] [Server thread/INFO]: justmartino issued server command: /give justmartino minecraft:piston
-[14:42:38] [Server thread/INFO]: [justmartino: Gave 1 [Piston] to justmartino]
-[14:44:13] [Server thread/INFO]: justmartino issued server command: /give justmartino minecraft:piston
-[14:44:13] [Server thread/INFO]: [justmartino: Gave 1 [Piston] to justmartino]
-[14:52:08] [Server thread/INFO]: justmartino issued server command: /give justmartino minecraft:crafting_table
-[14:52:08] [Server thread/INFO]: [justmartino: Gave 1 [Crafting Table] to justmartino]
-[14:59:16] [Server thread/INFO]: justmartino issued server command: /give justmartino rail
-[14:59:16] [Server thread/INFO]: [justmartino: Gave 1 [Rail] to justmartino]
-[15:05:45] [Server thread/INFO]: justmartino issued server command: /give justmartino minecraft:crimson_button
-[15:05:45] [Server thread/INFO]: [justmartino: Gave 1 [Crimson Button] to justmartino]
-[15:07:54] [Server thread/INFO]: justmartino issued server command: /time set night
-[15:07:54] [Server thread/INFO]: [justmartino: Set the time to 13000]
-[15:08:35] [Server thread/INFO]: justmartino lost connection: Disconnected
-[15:08:35] [Server thread/INFO]: justmartino left the game
-[15:08:41] [Server thread/INFO]: Stopping the server
-[15:08:41] [Server thread/INFO]: Stopping server
-[15:08:41] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.4.5-SNAPSHOT-273;8233f13
-[15:08:41] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[15:08:41] [Server thread/INFO]: Saving players
-[15:08:41] [Server thread/INFO]: Saving worlds
-[15:08:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:08:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[15:08:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[15:08:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:08:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:08:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:08:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[15:08:43] [Server thread/INFO]: Flushing Chunk IO
-[15:08:43] [Server thread/INFO]: Closing Thread Pool
-[15:08:43] [Server thread/INFO]: Closing Server
+[00:07:38] [Server thread/INFO]: poke_craft245 lost connection: Disconnected
+[00:07:38] [Server thread/INFO]: poke_craft245 left the game
+[00:07:51] [Server thread/INFO]: justmartino issued server command: /weather rain
+[00:07:51] [Server thread/INFO]: [justmartino: Set the weather to rain]
+[00:08:09] [User Authenticator #4/INFO]: UUID of player poke_craft245 is 0ed85f74-32e8-431c-91f2-e60507e71871
+[00:08:09] [Server thread/INFO]: poke_craft245 joined the game
+[00:08:09] [Server thread/INFO]: poke_craft245[/91.180.9.155:57199] logged in with entity id 11049 at ([world]-94.50678805363239, 176.0, 278.69999998807907)
+[00:18:58] [Server thread/INFO]: poke_craft245 lost connection: Disconnected
+[00:18:58] [Server thread/INFO]: poke_craft245 left the game
+[00:19:40] [Server thread/INFO]: HackDamonius fell off a ladder
+[00:19:47] [User Authenticator #5/INFO]: UUID of player poke_craft245 is 0ed85f74-32e8-431c-91f2-e60507e71871
+[00:19:47] [Server thread/INFO]: poke_craft245 joined the game
+[00:19:47] [Server thread/INFO]: poke_craft245[/91.180.9.155:57552] logged in with entity id 17597 at ([world]-94.55294864369608, 176.0, 278.69999998807907)
+[00:26:30] [Server thread/INFO]: justmartino didn't want to live in the same world as Zombified Piglin
+[00:26:55] [Server thread/INFO]: justmartino fell off a ladder
+[00:29:20] [Server thread/INFO]: HackDamonius lost connection: Disconnected
+[00:29:20] [Server thread/INFO]: HackDamonius left the game
+[00:30:22] [Server thread/INFO]: poke_craft245 lost connection: Disconnected
+[00:30:22] [Server thread/INFO]: poke_craft245 left the game
+[00:36:10] [Server thread/INFO]: justmartino lost connection: Disconnected
+[00:36:10] [Server thread/INFO]: justmartino left the game
+[00:36:17] [Server thread/INFO]: Stopping the server
+[00:36:18] [Server thread/INFO]: Stopping server
+[00:36:18] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.4.5-SNAPSHOT-273;8233f13
+[00:36:18] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[00:36:18] [Server thread/INFO]: Saving players
+[00:36:18] [Server thread/INFO]: Saving worlds
+[00:36:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:36:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[00:36:19] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[00:36:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:36:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:36:19] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:36:19] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:36:19] [Server thread/INFO]: Flushing Chunk IO
+[00:36:19] [Server thread/INFO]: Closing Thread Pool
+[00:36:19] [Server thread/INFO]: Closing Server
