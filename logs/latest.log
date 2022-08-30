@@ -1,91 +1,261 @@
-[02:40:37] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[02:40:38] [Worker-Main-7/INFO]: Loaded 7 recipes
-[02:40:39] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[02:40:39] [Server thread/INFO]: Loading properties
-[02:40:39] [Server thread/INFO]: This server is running Paper version git-Paper-342 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
-[02:40:39] [Server thread/INFO]: Debug logging is disabled
-[02:40:39] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:40:39] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:40:39] [Server thread/INFO]: Default game type: SURVIVAL
-[02:40:39] [Server thread/INFO]: Generating keypair
-[02:40:39] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:40:39] [Server thread/INFO]: Using default channel type
-[02:40:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:40:40] [Server thread/INFO]: Preparing level "world"
-[02:40:40] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:40:41] [Server thread/INFO]: Loaded 0 spawn chunks for world world
-[02:40:41] [Server thread/INFO]: Time elapsed: 160 ms
-[02:40:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[02:40:41] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
-[02:40:41] [Server thread/INFO]: Time elapsed: 65 ms
-[02:40:41] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[02:40:41] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
-[02:40:41] [Server thread/INFO]: Time elapsed: 80 ms
-[02:40:41] [Server thread/INFO]: Running delayed init tasks
-[02:40:41] [Server thread/INFO]: Done (2.045s)! For help, type "help"
-[02:40:41] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[02:40:41] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
-[02:40:41] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
-[02:40:41] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
-[02:40:41] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[02:40:41] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
-[02:40:41] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 11. When Paper for Minecraft 1.17 is
-[02:40:41] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 11 will
-[02:40:41] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
-[02:40:41] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[02:40:41] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 1.8.0_201
-[02:40:41] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[02:40:41] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
-[02:40:41] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java11
-[02:40:41] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[02:40:41] [Server thread/INFO]: Timings Reset
-[02:43:32] [User Authenticator #1/INFO]: UUID of player poke_craft245 is 0ed85f74-32e8-431c-91f2-e60507e71871
-[02:43:32] [Server thread/INFO]: poke_craft245 joined the game
-[02:43:32] [Server thread/INFO]: poke_craft245[/91.180.9.155:53779] logged in with entity id 254 at ([world_nether]-13.561467662809417, 69.5, 22.47196628470086)
-[02:43:41] [User Authenticator #1/INFO]: UUID of player HackDamonius is 97c39833-cb73-4f13-bba3-f4d8e34271d0
-[02:43:41] [Server thread/INFO]: HackDamonius joined the game
-[02:43:41] [Server thread/INFO]: HackDamonius[/127.0.0.1:50382] logged in with entity id 427 at ([world_nether]-9.526488257362562, 1.5, 19.738967761086435)
-[02:45:36] [Async Chat Thread - #0/INFO]: <HackDamonius> call?
-[02:45:46] [Async Chat Thread - #0/INFO]: <poke_craft245> zkit me monssef in call
-[02:45:49] [Async Chat Thread - #0/INFO]: <poke_craft245> kga u toevoegen
-[02:45:50] [Async Chat Thread - #0/INFO]: <HackDamonius> ah lel
-[02:45:52] [Async Chat Thread - #0/INFO]: <poke_craft245> alst nie erg is
-[02:45:53] [Async Chat Thread - #0/INFO]: <HackDamonius> kk
-[02:45:59] [Async Chat Thread - #0/INFO]: <poke_craft245> want ssome rnaked adviice mid game
-[02:46:09] [Async Chat Thread - #0/INFO]: <HackDamonius> ahhh ranked
-[02:46:12] [Async Chat Thread - #0/INFO]: <HackDamonius> naked xDDDD
-[03:05:29] [Server thread/INFO]: poke_craft245 was slain by Enderman
-[03:05:38] [Server thread/INFO]: HackDamonius was slain by Enderman
-[03:07:04] [Server thread/INFO]: poke_craft245 issued server command: /seed
-[03:17:20] [Server thread/INFO]: poke_craft245 was slain by Zombified Piglin
-[03:17:44] [Server thread/INFO]: poke_craft245 was slain by Enderman
-[03:32:10] [Server thread/INFO]: poke_craft245 was squashed by Endermite
-[03:36:19] [Server thread/INFO]: HackDamonius fell out of the world
-[03:40:36] [Server thread/INFO]: HackDamonius was slain by Zombified Piglin
-[03:43:30] [Server thread/INFO]: HackDamonius was slain by Zombified Piglin
-[03:44:00] [Server thread/INFO]: HackDamonius was slain by Zombified Piglin
-[03:56:36] [Server thread/INFO]: poke_craft245 has made the advancement [The Parrots and the Bats]
-[04:04:17] [Server thread/INFO]: poke_craft245 fell from a high place
-[04:04:33] [Server thread/INFO]: poke_craft245 fell from a high place
-[04:09:57] [Server thread/INFO]: poke_craft245 was slain by Enderman
-[04:10:39] [Server thread/INFO]: HackDamonius was slain by Zombified Piglin
-[04:34:53] [Server thread/INFO]: poke_craft245 lost connection: Disconnected
-[04:34:53] [Server thread/INFO]: poke_craft245 left the game
-[04:34:56] [Server thread/INFO]: HackDamonius lost connection: Disconnected
-[04:34:56] [Server thread/INFO]: HackDamonius left the game
-[04:36:36] [Server thread/INFO]: Stopping the server
-[04:36:36] [Server thread/INFO]: Stopping server
-[04:36:36] [Server thread/INFO]: Saving players
-[04:36:36] [Server thread/INFO]: Saving worlds
-[04:36:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[04:36:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:36:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[04:36:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:36:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[04:36:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:36:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[04:36:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[04:36:37] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[04:36:37] [Server thread/INFO]: Flushing Chunk IO
-[04:36:37] [Server thread/INFO]: Closing Thread Pool
-[04:36:37] [Server thread/INFO]: Closing Server
+[12:54:35] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:54:37] [Worker-Main-1/INFO]: Loaded 7 recipes
+[12:54:38] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[12:54:38] [Server thread/INFO]: Loading properties
+[12:54:38] [Server thread/INFO]: This server is running Paper version git-Paper-387 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT) (Git: df630a2 on ver/1.18.2)
+[12:54:38] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:54:38] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:54:38] [Server thread/INFO]: Default game type: SURVIVAL
+[12:54:38] [Server thread/INFO]: Generating keypair
+[12:54:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:54:38] [Server thread/INFO]: Using default channel type
+[12:54:38] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[12:54:38] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[12:54:39] [Server thread/INFO]: [FastAsyncWorldEdit] Loading FastAsyncWorldEdit v2.4.5-SNAPSHOT-273;8233f13
+[12:54:40] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@3f2ac0c0]
+[12:54:40] [Server thread/INFO]: Default configuration file written: worldedit-config.yml
+[12:54:40] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:54:40] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.4.5-SNAPSHOT-273;8233f13
+[12:54:40] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[12:54:40] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[12:54:40] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[12:54:40] [Server thread/INFO]: WEPIF: Updated config file
+[12:54:40] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[12:54:40] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_18_R2.PaperweightFaweAdapter as the Bukkit adapter
+[12:54:41] [Server thread/INFO]: Preparing level "world"
+[12:54:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:54:47] [Server thread/INFO]: Time elapsed: 185 ms
+[12:54:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[12:54:47] [Server thread/INFO]: Time elapsed: 65 ms
+[12:54:47] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[12:54:47] [Server thread/INFO]: Time elapsed: 59 ms
+[12:54:47] [Server thread/INFO]: Running delayed init tasks
+[12:54:47] [Server thread/INFO]: Done (9.544s)! For help, type "help"
+[12:54:47] [Server thread/INFO]: Timings Reset
+[12:54:49] [Paper Async Chunk Task Thread #0/ERROR]: No key placement in MapLike[{config:{decorators:[],foliage_placer:{offset:0,radius:2,trunk_height:1,type:"minecraft:spruce_foliage_placer"},heightmap:"OCEAN_FLOOR",ignore_vines:1b,leaves_provider:{state:{Name:"minecraft:spruce_leaves",Properties:{distance:"7",persistent:"false"}},type:"minecraft:simple_state_provider"},max_water_depth:0,minimum_size:{limit:2,lower_size:0,type:"minecraft:two_layers_feature_size",upper_size:2},trunk_placer:{base_height:5,height_rand_a:2,height_rand_b:1,type:"minecraft:straight_trunk_placer"},trunk_provider:{state:{Name:"minecraft:spruce_log",Properties:{axis:"y"}},type:"minecraft:simple_state_provider"}},type:"minecraft:tree"}]; No key feature in MapLike[{config:{decorators:[],foliage_placer:{offset:0,radius:2,trunk_height:1,type:"minecraft:spruce_foliage_placer"},heightmap:"OCEAN_FLOOR",ignore_vines:1b,leaves_provider:{state:{Name:"minecraft:spruce_leaves",Properties:{distance:"7",persistent:"false"}},type:"minecraft:simple_state_provider"},max_water_depth:0,minimum_size:{limit:2,lower_size:0,type:"minecraft:two_layers_feature_size",upper_size:2},trunk_placer:{base_height:5,height_rand_a:2,height_rand_b:1,type:"minecraft:straight_trunk_placer"},trunk_provider:{state:{Name:"minecraft:spruce_log",Properties:{axis:"y"}},type:"minecraft:simple_state_provider"}},type:"minecraft:tree"}]
+[12:54:49] [Paper Async Chunk Task Thread #0/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid pool element found
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.lambda$new$0(PoolElementStructurePiece.java:51) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.lambda$new$0(PoolElementStructurePiece.java:51) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer.load(PiecesContainer.java:65) ~[paper-1.18.2.jar:git-Paper-387]
+	at net.minecraft.world.level.levelgen.feature.StructureFeature.loadStaticStart(StructureFeature.java:124) ~[paper-1.18.2.jar:git-Paper-387]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.unpackStructureStart(ChunkSerializer.java:805) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.loadChunk(ChunkSerializer.java:371) ~[?:?]
+	at com.destroystokyo.paper.io.chunk.ChunkLoadTask.executeTask(ChunkLoadTask.java:107) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.chunk.ChunkLoadTask.run(ChunkLoadTask.java:38) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.QueueExecutorThread.pollTasks(QueueExecutorThread.java:118) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.QueueExecutorThread.run(QueueExecutorThread.java:51) ~[paper-1.18.2.jar:git-Paper-387]
+[12:54:49] [Paper Async Chunk Task Thread #0/ERROR]: No key placement in MapLike[{config:{decorators:[],foliage_placer:{offset:0,radius:2,trunk_height:1,type:"minecraft:spruce_foliage_placer"},heightmap:"OCEAN_FLOOR",ignore_vines:1b,leaves_provider:{state:{Name:"minecraft:spruce_leaves",Properties:{distance:"7",persistent:"false"}},type:"minecraft:simple_state_provider"},max_water_depth:0,minimum_size:{limit:2,lower_size:0,type:"minecraft:two_layers_feature_size",upper_size:2},trunk_placer:{base_height:5,height_rand_a:2,height_rand_b:1,type:"minecraft:straight_trunk_placer"},trunk_provider:{state:{Name:"minecraft:spruce_log",Properties:{axis:"y"}},type:"minecraft:simple_state_provider"}},type:"minecraft:tree"}]; No key feature in MapLike[{config:{decorators:[],foliage_placer:{offset:0,radius:2,trunk_height:1,type:"minecraft:spruce_foliage_placer"},heightmap:"OCEAN_FLOOR",ignore_vines:1b,leaves_provider:{state:{Name:"minecraft:spruce_leaves",Properties:{distance:"7",persistent:"false"}},type:"minecraft:simple_state_provider"},max_water_depth:0,minimum_size:{limit:2,lower_size:0,type:"minecraft:two_layers_feature_size",upper_size:2},trunk_placer:{base_height:5,height_rand_a:2,height_rand_b:1,type:"minecraft:straight_trunk_placer"},trunk_provider:{state:{Name:"minecraft:spruce_log",Properties:{axis:"y"}},type:"minecraft:simple_state_provider"}},type:"minecraft:tree"}]
+[12:54:49] [Paper Async Chunk Task Thread #0/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid pool element found
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.lambda$new$0(PoolElementStructurePiece.java:51) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.lambda$new$0(PoolElementStructurePiece.java:51) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer.load(PiecesContainer.java:65) ~[paper-1.18.2.jar:git-Paper-387]
+	at net.minecraft.world.level.levelgen.feature.StructureFeature.loadStaticStart(StructureFeature.java:124) ~[paper-1.18.2.jar:git-Paper-387]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.unpackStructureStart(ChunkSerializer.java:805) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.loadChunk(ChunkSerializer.java:371) ~[?:?]
+	at com.destroystokyo.paper.io.chunk.ChunkLoadTask.executeTask(ChunkLoadTask.java:107) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.chunk.ChunkLoadTask.run(ChunkLoadTask.java:38) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.QueueExecutorThread.pollTasks(QueueExecutorThread.java:118) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.QueueExecutorThread.run(QueueExecutorThread.java:51) ~[paper-1.18.2.jar:git-Paper-387]
+[12:54:49] [Paper Async Chunk Task Thread #0/ERROR]: No key placement in MapLike[{config:{decorators:[],foliage_placer:{height:3,offset:1,radius:1,type:"minecraft:pine_foliage_placer"},heightmap:"OCEAN_FLOOR",ignore_vines:1b,leaves_provider:{state:{Name:"minecraft:spruce_leaves",Properties:{distance:"7",persistent:"false"}},type:"minecraft:simple_state_provider"},max_water_depth:0,minimum_size:{limit:2,lower_size:0,type:"minecraft:two_layers_feature_size",upper_size:2},trunk_placer:{base_height:6,height_rand_a:4,height_rand_b:0,type:"minecraft:straight_trunk_placer"},trunk_provider:{state:{Name:"minecraft:spruce_log",Properties:{axis:"y"}},type:"minecraft:simple_state_provider"}},type:"minecraft:tree"}]; No key feature in MapLike[{config:{decorators:[],foliage_placer:{height:3,offset:1,radius:1,type:"minecraft:pine_foliage_placer"},heightmap:"OCEAN_FLOOR",ignore_vines:1b,leaves_provider:{state:{Name:"minecraft:spruce_leaves",Properties:{distance:"7",persistent:"false"}},type:"minecraft:simple_state_provider"},max_water_depth:0,minimum_size:{limit:2,lower_size:0,type:"minecraft:two_layers_feature_size",upper_size:2},trunk_placer:{base_height:6,height_rand_a:4,height_rand_b:0,type:"minecraft:straight_trunk_placer"},trunk_provider:{state:{Name:"minecraft:spruce_log",Properties:{axis:"y"}},type:"minecraft:simple_state_provider"}},type:"minecraft:tree"}]
+[12:54:49] [Paper Async Chunk Task Thread #0/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid pool element found
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.lambda$new$0(PoolElementStructurePiece.java:51) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.lambda$new$0(PoolElementStructurePiece.java:51) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer.load(PiecesContainer.java:65) ~[paper-1.18.2.jar:git-Paper-387]
+	at net.minecraft.world.level.levelgen.feature.StructureFeature.loadStaticStart(StructureFeature.java:124) ~[paper-1.18.2.jar:git-Paper-387]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.unpackStructureStart(ChunkSerializer.java:805) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.loadChunk(ChunkSerializer.java:371) ~[?:?]
+	at com.destroystokyo.paper.io.chunk.ChunkLoadTask.executeTask(ChunkLoadTask.java:107) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.chunk.ChunkLoadTask.run(ChunkLoadTask.java:38) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.QueueExecutorThread.pollTasks(QueueExecutorThread.java:118) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.QueueExecutorThread.run(QueueExecutorThread.java:51) ~[paper-1.18.2.jar:git-Paper-387]
+[12:54:50] [Paper Async Chunk Task Thread #0/ERROR]: No key placement in MapLike[{config:{decorators:[],foliage_placer:{height:3,offset:1,radius:1,type:"minecraft:pine_foliage_placer"},heightmap:"OCEAN_FLOOR",ignore_vines:1b,leaves_provider:{state:{Name:"minecraft:spruce_leaves",Properties:{distance:"7",persistent:"false"}},type:"minecraft:simple_state_provider"},max_water_depth:0,minimum_size:{limit:2,lower_size:0,type:"minecraft:two_layers_feature_size",upper_size:2},trunk_placer:{base_height:6,height_rand_a:4,height_rand_b:0,type:"minecraft:straight_trunk_placer"},trunk_provider:{state:{Name:"minecraft:spruce_log",Properties:{axis:"y"}},type:"minecraft:simple_state_provider"}},type:"minecraft:tree"}]; No key feature in MapLike[{config:{decorators:[],foliage_placer:{height:3,offset:1,radius:1,type:"minecraft:pine_foliage_placer"},heightmap:"OCEAN_FLOOR",ignore_vines:1b,leaves_provider:{state:{Name:"minecraft:spruce_leaves",Properties:{distance:"7",persistent:"false"}},type:"minecraft:simple_state_provider"},max_water_depth:0,minimum_size:{limit:2,lower_size:0,type:"minecraft:two_layers_feature_size",upper_size:2},trunk_placer:{base_height:6,height_rand_a:4,height_rand_b:0,type:"minecraft:straight_trunk_placer"},trunk_provider:{state:{Name:"minecraft:spruce_log",Properties:{axis:"y"}},type:"minecraft:simple_state_provider"}},type:"minecraft:tree"}]
+[12:54:50] [Paper Async Chunk Task Thread #0/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid pool element found
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.lambda$new$0(PoolElementStructurePiece.java:51) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.lambda$new$0(PoolElementStructurePiece.java:51) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer.load(PiecesContainer.java:65) ~[paper-1.18.2.jar:git-Paper-387]
+	at net.minecraft.world.level.levelgen.feature.StructureFeature.loadStaticStart(StructureFeature.java:124) ~[paper-1.18.2.jar:git-Paper-387]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.unpackStructureStart(ChunkSerializer.java:805) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.loadChunk(ChunkSerializer.java:371) ~[?:?]
+	at com.destroystokyo.paper.io.chunk.ChunkLoadTask.executeTask(ChunkLoadTask.java:107) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.chunk.ChunkLoadTask.run(ChunkLoadTask.java:38) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.QueueExecutorThread.pollTasks(QueueExecutorThread.java:118) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.QueueExecutorThread.run(QueueExecutorThread.java:51) ~[paper-1.18.2.jar:git-Paper-387]
+[12:54:50] [Paper Async Chunk Task Thread #0/ERROR]: No key placement in MapLike[{config:{decorators:[],foliage_placer:{offset:0,radius:2,trunk_height:1,type:"minecraft:spruce_foliage_placer"},heightmap:"OCEAN_FLOOR",ignore_vines:1b,leaves_provider:{state:{Name:"minecraft:spruce_leaves",Properties:{distance:"7",persistent:"false"}},type:"minecraft:simple_state_provider"},max_water_depth:0,minimum_size:{limit:2,lower_size:0,type:"minecraft:two_layers_feature_size",upper_size:2},trunk_placer:{base_height:5,height_rand_a:2,height_rand_b:1,type:"minecraft:straight_trunk_placer"},trunk_provider:{state:{Name:"minecraft:spruce_log",Properties:{axis:"y"}},type:"minecraft:simple_state_provider"}},type:"minecraft:tree"}]; No key feature in MapLike[{config:{decorators:[],foliage_placer:{offset:0,radius:2,trunk_height:1,type:"minecraft:spruce_foliage_placer"},heightmap:"OCEAN_FLOOR",ignore_vines:1b,leaves_provider:{state:{Name:"minecraft:spruce_leaves",Properties:{distance:"7",persistent:"false"}},type:"minecraft:simple_state_provider"},max_water_depth:0,minimum_size:{limit:2,lower_size:0,type:"minecraft:two_layers_feature_size",upper_size:2},trunk_placer:{base_height:5,height_rand_a:2,height_rand_b:1,type:"minecraft:straight_trunk_placer"},trunk_provider:{state:{Name:"minecraft:spruce_log",Properties:{axis:"y"}},type:"minecraft:simple_state_provider"}},type:"minecraft:tree"}]
+[12:54:50] [Paper Async Chunk Task Thread #0/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid pool element found
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.lambda$new$0(PoolElementStructurePiece.java:51) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.lambda$new$0(PoolElementStructurePiece.java:51) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer.load(PiecesContainer.java:65) ~[paper-1.18.2.jar:git-Paper-387]
+	at net.minecraft.world.level.levelgen.feature.StructureFeature.loadStaticStart(StructureFeature.java:124) ~[paper-1.18.2.jar:git-Paper-387]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.unpackStructureStart(ChunkSerializer.java:805) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.loadChunk(ChunkSerializer.java:371) ~[?:?]
+	at com.destroystokyo.paper.io.chunk.ChunkLoadTask.executeTask(ChunkLoadTask.java:107) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.chunk.ChunkLoadTask.run(ChunkLoadTask.java:38) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.QueueExecutorThread.pollTasks(QueueExecutorThread.java:118) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.QueueExecutorThread.run(QueueExecutorThread.java:51) ~[paper-1.18.2.jar:git-Paper-387]
+[12:54:50] [Paper Async Chunk Task Thread #0/ERROR]: No key placement in MapLike[{config:{decorators:[],foliage_placer:{height:3,offset:1,radius:1,type:"minecraft:pine_foliage_placer"},heightmap:"OCEAN_FLOOR",ignore_vines:1b,leaves_provider:{state:{Name:"minecraft:spruce_leaves",Properties:{distance:"7",persistent:"false"}},type:"minecraft:simple_state_provider"},max_water_depth:0,minimum_size:{limit:2,lower_size:0,type:"minecraft:two_layers_feature_size",upper_size:2},trunk_placer:{base_height:6,height_rand_a:4,height_rand_b:0,type:"minecraft:straight_trunk_placer"},trunk_provider:{state:{Name:"minecraft:spruce_log",Properties:{axis:"y"}},type:"minecraft:simple_state_provider"}},type:"minecraft:tree"}]; No key feature in MapLike[{config:{decorators:[],foliage_placer:{height:3,offset:1,radius:1,type:"minecraft:pine_foliage_placer"},heightmap:"OCEAN_FLOOR",ignore_vines:1b,leaves_provider:{state:{Name:"minecraft:spruce_leaves",Properties:{distance:"7",persistent:"false"}},type:"minecraft:simple_state_provider"},max_water_depth:0,minimum_size:{limit:2,lower_size:0,type:"minecraft:two_layers_feature_size",upper_size:2},trunk_placer:{base_height:6,height_rand_a:4,height_rand_b:0,type:"minecraft:straight_trunk_placer"},trunk_provider:{state:{Name:"minecraft:spruce_log",Properties:{axis:"y"}},type:"minecraft:simple_state_provider"}},type:"minecraft:tree"}]
+[12:54:50] [Paper Async Chunk Task Thread #0/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid pool element found
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.lambda$new$0(PoolElementStructurePiece.java:51) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.lambda$new$0(PoolElementStructurePiece.java:51) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer.load(PiecesContainer.java:65) ~[paper-1.18.2.jar:git-Paper-387]
+	at net.minecraft.world.level.levelgen.feature.StructureFeature.loadStaticStart(StructureFeature.java:124) ~[paper-1.18.2.jar:git-Paper-387]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.unpackStructureStart(ChunkSerializer.java:805) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.loadChunk(ChunkSerializer.java:371) ~[?:?]
+	at com.destroystokyo.paper.io.chunk.ChunkLoadTask.executeTask(ChunkLoadTask.java:107) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.chunk.ChunkLoadTask.run(ChunkLoadTask.java:38) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.QueueExecutorThread.pollTasks(QueueExecutorThread.java:118) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.QueueExecutorThread.run(QueueExecutorThread.java:51) ~[paper-1.18.2.jar:git-Paper-387]
+[12:54:50] [Paper Async Chunk Task Thread #0/ERROR]: No key placement in MapLike[{config:{blacklist:[],block_placer:{type:"minecraft:simple_block_placer"},can_replace:0b,need_water:0b,project:1b,state_provider:{entries:[{data:{Name:"minecraft:fern"},weight:4},{data:{Name:"minecraft:grass"},weight:1}],type:"minecraft:weighted_state_provider"},tries:32,whitelist:[],xspread:7,yspread:3,zspread:7},type:"minecraft:random_patch"}]; No key feature in MapLike[{config:{blacklist:[],block_placer:{type:"minecraft:simple_block_placer"},can_replace:0b,need_water:0b,project:1b,state_provider:{entries:[{data:{Name:"minecraft:fern"},weight:4},{data:{Name:"minecraft:grass"},weight:1}],type:"minecraft:weighted_state_provider"},tries:32,whitelist:[],xspread:7,yspread:3,zspread:7},type:"minecraft:random_patch"}]
+[12:54:50] [Paper Async Chunk Task Thread #0/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid pool element found
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.lambda$new$0(PoolElementStructurePiece.java:51) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.lambda$new$0(PoolElementStructurePiece.java:51) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer.load(PiecesContainer.java:65) ~[paper-1.18.2.jar:git-Paper-387]
+	at net.minecraft.world.level.levelgen.feature.StructureFeature.loadStaticStart(StructureFeature.java:124) ~[paper-1.18.2.jar:git-Paper-387]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.unpackStructureStart(ChunkSerializer.java:805) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.loadChunk(ChunkSerializer.java:371) ~[?:?]
+	at com.destroystokyo.paper.io.chunk.ChunkLoadTask.executeTask(ChunkLoadTask.java:107) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.chunk.ChunkLoadTask.run(ChunkLoadTask.java:38) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.QueueExecutorThread.pollTasks(QueueExecutorThread.java:118) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.QueueExecutorThread.run(QueueExecutorThread.java:51) ~[paper-1.18.2.jar:git-Paper-387]
+[12:54:50] [Paper Async Chunk Task Thread #0/ERROR]: No key placement in MapLike[{config:{state_provider:{entries:[{data:{Name:"minecraft:pumpkin"},weight:19},{data:{Name:"minecraft:jack_o_lantern",Properties:{facing:"north"}},weight:1}],type:"minecraft:weighted_state_provider"}},type:"minecraft:block_pile"}]; No key feature in MapLike[{config:{state_provider:{entries:[{data:{Name:"minecraft:pumpkin"},weight:19},{data:{Name:"minecraft:jack_o_lantern",Properties:{facing:"north"}},weight:1}],type:"minecraft:weighted_state_provider"}},type:"minecraft:block_pile"}]
+[12:54:50] [Paper Async Chunk Task Thread #0/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid pool element found
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.lambda$new$0(PoolElementStructurePiece.java:51) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.lambda$new$0(PoolElementStructurePiece.java:51) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer.load(PiecesContainer.java:65) ~[paper-1.18.2.jar:git-Paper-387]
+	at net.minecraft.world.level.levelgen.feature.StructureFeature.loadStaticStart(StructureFeature.java:124) ~[paper-1.18.2.jar:git-Paper-387]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.unpackStructureStart(ChunkSerializer.java:805) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.loadChunk(ChunkSerializer.java:371) ~[?:?]
+	at com.destroystokyo.paper.io.chunk.ChunkLoadTask.executeTask(ChunkLoadTask.java:107) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.chunk.ChunkLoadTask.run(ChunkLoadTask.java:38) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.QueueExecutorThread.pollTasks(QueueExecutorThread.java:118) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.QueueExecutorThread.run(QueueExecutorThread.java:51) ~[paper-1.18.2.jar:git-Paper-387]
+[12:54:50] [Paper Async Chunk Task Thread #0/ERROR]: No key placement in MapLike[{config:{state_provider:{entries:[{data:{Name:"minecraft:pumpkin"},weight:19},{data:{Name:"minecraft:jack_o_lantern",Properties:{facing:"north"}},weight:1}],type:"minecraft:weighted_state_provider"}},type:"minecraft:block_pile"}]; No key feature in MapLike[{config:{state_provider:{entries:[{data:{Name:"minecraft:pumpkin"},weight:19},{data:{Name:"minecraft:jack_o_lantern",Properties:{facing:"north"}},weight:1}],type:"minecraft:weighted_state_provider"}},type:"minecraft:block_pile"}]
+[12:54:50] [Paper Async Chunk Task Thread #0/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid pool element found
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.lambda$new$0(PoolElementStructurePiece.java:51) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.lambda$new$0(PoolElementStructurePiece.java:51) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer.load(PiecesContainer.java:65) ~[paper-1.18.2.jar:git-Paper-387]
+	at net.minecraft.world.level.levelgen.feature.StructureFeature.loadStaticStart(StructureFeature.java:124) ~[paper-1.18.2.jar:git-Paper-387]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.unpackStructureStart(ChunkSerializer.java:805) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.loadChunk(ChunkSerializer.java:371) ~[?:?]
+	at com.destroystokyo.paper.io.chunk.ChunkLoadTask.executeTask(ChunkLoadTask.java:107) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.chunk.ChunkLoadTask.run(ChunkLoadTask.java:38) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.QueueExecutorThread.pollTasks(QueueExecutorThread.java:118) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.QueueExecutorThread.run(QueueExecutorThread.java:51) ~[paper-1.18.2.jar:git-Paper-387]
+[12:54:50] [Paper Async Chunk Task Thread #0/ERROR]: No key placement in MapLike[{config:{decorators:[],foliage_placer:{height:3,offset:1,radius:1,type:"minecraft:pine_foliage_placer"},heightmap:"OCEAN_FLOOR",ignore_vines:1b,leaves_provider:{state:{Name:"minecraft:spruce_leaves",Properties:{distance:"7",persistent:"false"}},type:"minecraft:simple_state_provider"},max_water_depth:0,minimum_size:{limit:2,lower_size:0,type:"minecraft:two_layers_feature_size",upper_size:2},trunk_placer:{base_height:6,height_rand_a:4,height_rand_b:0,type:"minecraft:straight_trunk_placer"},trunk_provider:{state:{Name:"minecraft:spruce_log",Properties:{axis:"y"}},type:"minecraft:simple_state_provider"}},type:"minecraft:tree"}]; No key feature in MapLike[{config:{decorators:[],foliage_placer:{height:3,offset:1,radius:1,type:"minecraft:pine_foliage_placer"},heightmap:"OCEAN_FLOOR",ignore_vines:1b,leaves_provider:{state:{Name:"minecraft:spruce_leaves",Properties:{distance:"7",persistent:"false"}},type:"minecraft:simple_state_provider"},max_water_depth:0,minimum_size:{limit:2,lower_size:0,type:"minecraft:two_layers_feature_size",upper_size:2},trunk_placer:{base_height:6,height_rand_a:4,height_rand_b:0,type:"minecraft:straight_trunk_placer"},trunk_provider:{state:{Name:"minecraft:spruce_log",Properties:{axis:"y"}},type:"minecraft:simple_state_provider"}},type:"minecraft:tree"}]
+[12:54:50] [Paper Async Chunk Task Thread #0/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid pool element found
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.lambda$new$0(PoolElementStructurePiece.java:51) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.lambda$new$0(PoolElementStructurePiece.java:51) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer.load(PiecesContainer.java:65) ~[paper-1.18.2.jar:git-Paper-387]
+	at net.minecraft.world.level.levelgen.feature.StructureFeature.loadStaticStart(StructureFeature.java:124) ~[paper-1.18.2.jar:git-Paper-387]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.unpackStructureStart(ChunkSerializer.java:805) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.loadChunk(ChunkSerializer.java:371) ~[?:?]
+	at com.destroystokyo.paper.io.chunk.ChunkLoadTask.executeTask(ChunkLoadTask.java:107) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.chunk.ChunkLoadTask.run(ChunkLoadTask.java:38) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.QueueExecutorThread.pollTasks(QueueExecutorThread.java:118) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.QueueExecutorThread.run(QueueExecutorThread.java:51) ~[paper-1.18.2.jar:git-Paper-387]
+[12:54:50] [Paper Async Chunk Task Thread #0/ERROR]: No key placement in MapLike[{config:{blacklist:[],block_placer:{type:"minecraft:simple_block_placer"},can_replace:0b,need_water:0b,project:1b,state_provider:{entries:[{data:{Name:"minecraft:fern"},weight:4},{data:{Name:"minecraft:grass"},weight:1}],type:"minecraft:weighted_state_provider"},tries:32,whitelist:[],xspread:7,yspread:3,zspread:7},type:"minecraft:random_patch"}]; No key feature in MapLike[{config:{blacklist:[],block_placer:{type:"minecraft:simple_block_placer"},can_replace:0b,need_water:0b,project:1b,state_provider:{entries:[{data:{Name:"minecraft:fern"},weight:4},{data:{Name:"minecraft:grass"},weight:1}],type:"minecraft:weighted_state_provider"},tries:32,whitelist:[],xspread:7,yspread:3,zspread:7},type:"minecraft:random_patch"}]
+[12:54:50] [Paper Async Chunk Task Thread #0/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid pool element found
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.lambda$new$0(PoolElementStructurePiece.java:51) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.lambda$new$0(PoolElementStructurePiece.java:51) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer.load(PiecesContainer.java:65) ~[paper-1.18.2.jar:git-Paper-387]
+	at net.minecraft.world.level.levelgen.feature.StructureFeature.loadStaticStart(StructureFeature.java:124) ~[paper-1.18.2.jar:git-Paper-387]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.unpackStructureStart(ChunkSerializer.java:805) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.loadChunk(ChunkSerializer.java:371) ~[?:?]
+	at com.destroystokyo.paper.io.chunk.ChunkLoadTask.executeTask(ChunkLoadTask.java:107) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.chunk.ChunkLoadTask.run(ChunkLoadTask.java:38) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.QueueExecutorThread.pollTasks(QueueExecutorThread.java:118) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.QueueExecutorThread.run(QueueExecutorThread.java:51) ~[paper-1.18.2.jar:git-Paper-387]
+[12:54:50] [Paper Async Chunk Task Thread #0/ERROR]: No key placement in MapLike[{config:{blacklist:[],block_placer:{type:"minecraft:simple_block_placer"},can_replace:0b,need_water:0b,project:1b,state_provider:{entries:[{data:{Name:"minecraft:fern"},weight:4},{data:{Name:"minecraft:grass"},weight:1}],type:"minecraft:weighted_state_provider"},tries:32,whitelist:[],xspread:7,yspread:3,zspread:7},type:"minecraft:random_patch"}]; No key feature in MapLike[{config:{blacklist:[],block_placer:{type:"minecraft:simple_block_placer"},can_replace:0b,need_water:0b,project:1b,state_provider:{entries:[{data:{Name:"minecraft:fern"},weight:4},{data:{Name:"minecraft:grass"},weight:1}],type:"minecraft:weighted_state_provider"},tries:32,whitelist:[],xspread:7,yspread:3,zspread:7},type:"minecraft:random_patch"}]
+[12:54:50] [Paper Async Chunk Task Thread #0/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid pool element found
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.lambda$new$0(PoolElementStructurePiece.java:51) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.lambda$new$0(PoolElementStructurePiece.java:51) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer.load(PiecesContainer.java:65) ~[paper-1.18.2.jar:git-Paper-387]
+	at net.minecraft.world.level.levelgen.feature.StructureFeature.loadStaticStart(StructureFeature.java:124) ~[paper-1.18.2.jar:git-Paper-387]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.unpackStructureStart(ChunkSerializer.java:805) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.loadChunk(ChunkSerializer.java:371) ~[?:?]
+	at com.destroystokyo.paper.io.chunk.ChunkLoadTask.executeTask(ChunkLoadTask.java:107) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.chunk.ChunkLoadTask.run(ChunkLoadTask.java:38) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.QueueExecutorThread.pollTasks(QueueExecutorThread.java:118) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.QueueExecutorThread.run(QueueExecutorThread.java:51) ~[paper-1.18.2.jar:git-Paper-387]
+[12:54:50] [Paper Async Chunk Task Thread #0/ERROR]: No key placement in MapLike[{config:{state_provider:{entries:[{data:{Name:"minecraft:pumpkin"},weight:19},{data:{Name:"minecraft:jack_o_lantern",Properties:{facing:"north"}},weight:1}],type:"minecraft:weighted_state_provider"}},type:"minecraft:block_pile"}]; No key feature in MapLike[{config:{state_provider:{entries:[{data:{Name:"minecraft:pumpkin"},weight:19},{data:{Name:"minecraft:jack_o_lantern",Properties:{facing:"north"}},weight:1}],type:"minecraft:weighted_state_provider"}},type:"minecraft:block_pile"}]
+[12:54:50] [Paper Async Chunk Task Thread #0/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid pool element found
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.lambda$new$0(PoolElementStructurePiece.java:51) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.lambda$new$0(PoolElementStructurePiece.java:51) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer.load(PiecesContainer.java:65) ~[paper-1.18.2.jar:git-Paper-387]
+	at net.minecraft.world.level.levelgen.feature.StructureFeature.loadStaticStart(StructureFeature.java:124) ~[paper-1.18.2.jar:git-Paper-387]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.unpackStructureStart(ChunkSerializer.java:805) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.loadChunk(ChunkSerializer.java:371) ~[?:?]
+	at com.destroystokyo.paper.io.chunk.ChunkLoadTask.executeTask(ChunkLoadTask.java:107) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.chunk.ChunkLoadTask.run(ChunkLoadTask.java:38) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.QueueExecutorThread.pollTasks(QueueExecutorThread.java:118) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.QueueExecutorThread.run(QueueExecutorThread.java:51) ~[paper-1.18.2.jar:git-Paper-387]
+[12:54:50] [Paper Async Chunk Task Thread #0/ERROR]: No key placement in MapLike[{config:{decorators:[],foliage_placer:{height:3,offset:1,radius:1,type:"minecraft:pine_foliage_placer"},heightmap:"OCEAN_FLOOR",ignore_vines:1b,leaves_provider:{state:{Name:"minecraft:spruce_leaves",Properties:{distance:"7",persistent:"false"}},type:"minecraft:simple_state_provider"},max_water_depth:0,minimum_size:{limit:2,lower_size:0,type:"minecraft:two_layers_feature_size",upper_size:2},trunk_placer:{base_height:6,height_rand_a:4,height_rand_b:0,type:"minecraft:straight_trunk_placer"},trunk_provider:{state:{Name:"minecraft:spruce_log",Properties:{axis:"y"}},type:"minecraft:simple_state_provider"}},type:"minecraft:tree"}]; No key feature in MapLike[{config:{decorators:[],foliage_placer:{height:3,offset:1,radius:1,type:"minecraft:pine_foliage_placer"},heightmap:"OCEAN_FLOOR",ignore_vines:1b,leaves_provider:{state:{Name:"minecraft:spruce_leaves",Properties:{distance:"7",persistent:"false"}},type:"minecraft:simple_state_provider"},max_water_depth:0,minimum_size:{limit:2,lower_size:0,type:"minecraft:two_layers_feature_size",upper_size:2},trunk_placer:{base_height:6,height_rand_a:4,height_rand_b:0,type:"minecraft:straight_trunk_placer"},trunk_provider:{state:{Name:"minecraft:spruce_log",Properties:{axis:"y"}},type:"minecraft:simple_state_provider"}},type:"minecraft:tree"}]
+[12:54:50] [Paper Async Chunk Task Thread #0/ERROR]: Exception loading structure piece with id minecraft:jigsaw
+java.lang.IllegalStateException: Invalid pool element found
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.lambda$new$0(PoolElementStructurePiece.java:51) ~[?:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.PoolElementStructurePiece.lambda$new$0(PoolElementStructurePiece.java:51) ~[?:?]
+	at net.minecraft.world.level.levelgen.structure.pieces.PiecesContainer.load(PiecesContainer.java:65) ~[paper-1.18.2.jar:git-Paper-387]
+	at net.minecraft.world.level.levelgen.feature.StructureFeature.loadStaticStart(StructureFeature.java:124) ~[paper-1.18.2.jar:git-Paper-387]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.unpackStructureStart(ChunkSerializer.java:805) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.ChunkSerializer.loadChunk(ChunkSerializer.java:371) ~[?:?]
+	at com.destroystokyo.paper.io.chunk.ChunkLoadTask.executeTask(ChunkLoadTask.java:107) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.chunk.ChunkLoadTask.run(ChunkLoadTask.java:38) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.QueueExecutorThread.pollTasks(QueueExecutorThread.java:118) ~[paper-1.18.2.jar:git-Paper-387]
+	at com.destroystokyo.paper.io.QueueExecutorThread.run(QueueExecutorThread.java:51) ~[paper-1.18.2.jar:git-Paper-387]
+[12:58:16] [User Authenticator #1/INFO]: UUID of player justmartino is 7f0f99f0-5d6e-4f77-9063-efc66f10dfaf
+[12:58:23] [Server thread/INFO]: justmartino joined the game
+[12:58:23] [Server thread/INFO]: justmartino[/127.0.0.1:55423] logged in with entity id 51 at ([world_nether]43.372428767615496, 2.5, 478.5406608797012)
+[12:58:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5176ms or 103 ticks behind
+[12:58:50] [Server thread/INFO]: justmartino issued server command: //air
+[12:58:57] [ForkJoinPool-5-worker-1/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_18_R2.PaperweightStarlightRelighterFactory as relighter factory.
+[12:59:04] [Server thread/INFO]: justmartino issued server command: //removebelow
+[13:00:48] [Server thread/INFO]: justmartino issued server command: //pos1
+[13:00:59] [Server thread/INFO]: justmartino issued server command: //pos2
+[13:01:17] [Server thread/INFO]: justmartino issued server command: //set air
+[13:01:49] [Server thread/INFO]: justmartino issued server command: //pos1
+[13:02:56] [Server thread/INFO]: justmartino issued server command: //pos2
+[13:03:00] [Server thread/INFO]: justmartino issued server command: //set air
+[13:06:23] [Server thread/INFO]: justmartino lost connection: Disconnected
+[13:06:23] [Server thread/INFO]: justmartino left the game
+[13:06:34] [Server thread/INFO]: Stopping the server
+[13:06:34] [Server thread/INFO]: Stopping server
+[13:06:34] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.4.5-SNAPSHOT-273;8233f13
+[13:06:34] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[13:06:34] [Server thread/INFO]: Saving players
+[13:06:34] [Server thread/INFO]: Saving worlds
+[13:06:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:06:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[13:06:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[13:06:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:06:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:06:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:06:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:06:39] [Server thread/INFO]: Flushing Chunk IO
+[13:06:39] [Server thread/INFO]: Closing Thread Pool
+[13:06:39] [Server thread/INFO]: Closing Server
