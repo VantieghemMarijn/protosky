@@ -1,68 +1,77 @@
-[13:54:26] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[13:54:30] [Worker-Main-1/INFO]: Loaded 7 recipes
-[13:54:32] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[13:54:32] [Server thread/INFO]: Loading properties
-[13:54:32] [Server thread/INFO]: This server is running Paper version git-Paper-387 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT) (Git: df630a2 on ver/1.18.2)
-[13:54:32] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[13:54:32] [Server thread/INFO]: Using 4 threads for Netty based IO
-[13:54:33] [Server thread/INFO]: Default game type: SURVIVAL
-[13:54:33] [Server thread/INFO]: Generating keypair
-[13:54:33] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:54:33] [Server thread/INFO]: Using default channel type
-[13:54:33] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
-[13:54:33] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
-[13:54:34] [Server thread/INFO]: [FastAsyncWorldEdit] Loading FastAsyncWorldEdit v2.4.5-SNAPSHOT-273;8233f13
-[13:54:35] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@10d69223]
-[13:54:35] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[13:54:35] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.4.5-SNAPSHOT-273;8233f13
-[13:54:35] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
-[13:54:35] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
-[13:54:35] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[13:54:35] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[13:54:35] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_18_R2.PaperweightFaweAdapter as the Bukkit adapter
-[13:54:37] [Server thread/INFO]: Preparing level "world"
-[13:54:48] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:54:48] [Server thread/INFO]: Time elapsed: 197 ms
-[13:54:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[13:54:49] [Server thread/INFO]: Time elapsed: 76 ms
-[13:54:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[13:54:49] [Server thread/INFO]: Time elapsed: 71 ms
-[13:54:49] [Server thread/INFO]: Running delayed init tasks
-[13:54:49] [Server thread/INFO]: Done (16.792s)! For help, type "help"
-[13:54:49] [Server thread/INFO]: Timings Reset
-[13:55:00] [User Authenticator #1/INFO]: UUID of player justmartino is 7f0f99f0-5d6e-4f77-9063-efc66f10dfaf
-[13:55:01] [Server thread/INFO]: justmartino joined the game
-[13:55:01] [Server thread/INFO]: justmartino[/127.0.0.1:58976] logged in with entity id 131 at ([world]-94.50948154786724, 176.0, 257.8682309118935)
-[13:55:49] [Server thread/INFO]: justmartino issued server command: /weather rain
-[13:55:49] [Server thread/INFO]: [justmartino: Set the weather to rain]
-[14:53:19] [Server thread/INFO]: justmartino issued server command: /weather rain
-[14:53:19] [Server thread/INFO]: [justmartino: Set the weather to rain]
-[14:53:25] [Server thread/INFO]: justmartino issued server command: /time set night
-[14:53:25] [Server thread/INFO]: [justmartino: Set the time to 13000]
-[15:28:38] [Server thread/INFO]: justmartino has made the advancement [Best Friends Forever]
-[15:42:43] [Server thread/INFO]: justmartino has made the advancement [The Parrots and the Bats]
-[15:48:06] [Server thread/INFO]: justmartino issued server command: /weather rain
-[15:48:06] [Server thread/INFO]: [justmartino: Set the weather to rain]
-[15:49:40] [Server thread/INFO]: justmartino issued server command: /difficulty
-[15:49:54] [Server thread/INFO]: justmartino issued server command: /tps
-[16:11:50] [Server thread/INFO]: justmartino fell off a ladder
-[16:12:02] [Server thread/INFO]: justmartino fell out of the world
-[17:14:40] [Server thread/INFO]: justmartino issued server command: /stop
-[17:14:40] [Server thread/INFO]: [justmartino: Stopping the server]
-[17:14:40] [Server thread/INFO]: Stopping server
-[17:14:40] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.4.5-SNAPSHOT-273;8233f13
-[17:14:40] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[17:14:40] [Server thread/INFO]: Saving players
-[17:14:40] [Server thread/INFO]: justmartino lost connection: Server closed
-[17:14:40] [Server thread/INFO]: justmartino left the game
-[17:14:40] [Server thread/INFO]: Saving worlds
-[17:14:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:14:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[17:14:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[17:14:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:14:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:14:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:14:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[17:14:41] [Server thread/INFO]: Flushing Chunk IO
-[17:14:41] [Server thread/INFO]: Closing Thread Pool
-[17:14:41] [Server thread/INFO]: Closing Server
+[00:27:26] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[00:27:28] [Worker-Main-2/INFO]: Loaded 7 recipes
+[00:27:29] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[00:27:29] [Server thread/INFO]: Loading properties
+[00:27:29] [Server thread/INFO]: This server is running Paper version git-Paper-387 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT) (Git: df630a2 on ver/1.18.2)
+[00:27:29] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[00:27:29] [Server thread/INFO]: Using 4 threads for Netty based IO
+[00:27:29] [Server thread/INFO]: Default game type: SURVIVAL
+[00:27:29] [Server thread/INFO]: Generating keypair
+[00:27:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+[00:27:29] [Server thread/INFO]: Using default channel type
+[00:27:29] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[00:27:29] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[00:27:29] [Server thread/INFO]: [FastAsyncWorldEdit] Loading FastAsyncWorldEdit v2.4.5-SNAPSHOT-273;8233f13
+[00:27:30] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@5db14a64]
+[00:27:30] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[00:27:30] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.4.5-SNAPSHOT-273;8233f13
+[00:27:30] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[00:27:30] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[00:27:30] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[00:27:30] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[00:27:30] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_18_R2.PaperweightFaweAdapter as the Bukkit adapter
+[00:27:31] [Server thread/INFO]: Preparing level "world"
+[00:27:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[00:27:32] [Server thread/INFO]: Time elapsed: 178 ms
+[00:27:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[00:27:32] [Server thread/INFO]: Time elapsed: 98 ms
+[00:27:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[00:27:32] [Server thread/INFO]: Time elapsed: 171 ms
+[00:27:33] [Server thread/INFO]: Running delayed init tasks
+[00:27:33] [Server thread/INFO]: Done (4.323s)! For help, type "help"
+[00:27:33] [Server thread/INFO]: Timings Reset
+[00:27:50] [User Authenticator #1/INFO]: UUID of player justmartino is 7f0f99f0-5d6e-4f77-9063-efc66f10dfaf
+[00:27:50] [Server thread/INFO]: justmartino joined the game
+[00:27:50] [Server thread/INFO]: justmartino[/94.110.132.205:57552] logged in with entity id 149 at ([world]-94.28762415039515, 176.0, 245.08780964720572)
+[00:29:06] [User Authenticator #2/INFO]: UUID of player HackDamonius is 97c39833-cb73-4f13-bba3-f4d8e34271d0
+[00:29:06] [Server thread/INFO]: HackDamonius joined the game
+[00:29:06] [Server thread/INFO]: HackDamonius[/127.0.0.1:61839] logged in with entity id 243 at ([world_nether]-13.398947630286218, 69.5, 24.280127049093398)
+[00:29:23] [User Authenticator #2/INFO]: UUID of player poke_craft245 is 0ed85f74-32e8-431c-91f2-e60507e71871
+[00:29:23] [Server thread/INFO]: poke_craft245 joined the game
+[00:29:23] [Server thread/INFO]: poke_craft245[/91.180.9.155:49183] logged in with entity id 328 at ([world_nether]-9.04242761842739, 2.0, 21.76249998807907)
+[00:51:27] [Server thread/INFO]: poke_craft245 lost connection: Disconnected
+[00:51:27] [Server thread/INFO]: poke_craft245 left the game
+[00:53:35] [Server thread/INFO]: HackDamonius issued server command: /time set day
+[00:53:35] [Server thread/INFO]: [HackDamonius: Set the time to 1000]
+[00:54:02] [User Authenticator #3/INFO]: UUID of player poke_craft245 is 0ed85f74-32e8-431c-91f2-e60507e71871
+[00:54:02] [Server thread/INFO]: poke_craft245 joined the game
+[00:54:02] [Server thread/INFO]: poke_craft245[/91.180.9.155:49928] logged in with entity id 8465 at ([world]-92.35987243983791, 63.0, 62.69833658816355)
+[00:54:07] [Server thread/INFO]: poke_craft245 was blown up by Creeper
+[01:04:05] [Server thread/INFO]: poke_craft245 was slain by Zombified Piglin
+[01:04:24] [Server thread/INFO]: HackDamonius lost connection: Disconnected
+[01:04:24] [Server thread/INFO]: HackDamonius left the game
+[01:04:34] [User Authenticator #4/INFO]: UUID of player HackDamonius is 97c39833-cb73-4f13-bba3-f4d8e34271d0
+[01:04:34] [Server thread/INFO]: HackDamonius joined the game
+[01:04:34] [Server thread/INFO]: HackDamonius[/127.0.0.1:58757] logged in with entity id 10955 at ([world]-103.03569697664382, 63.0, 106.1900349163163)
+[01:15:22] [Server thread/INFO]: HackDamonius lost connection: Disconnected
+[01:15:22] [Server thread/INFO]: HackDamonius left the game
+[01:16:44] [Server thread/INFO]: poke_craft245 lost connection: Disconnected
+[01:16:44] [Server thread/INFO]: poke_craft245 left the game
+[01:16:59] [Server thread/INFO]: Stopping the server
+[01:16:59] [Server thread/INFO]: Stopping server
+[01:16:59] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.4.5-SNAPSHOT-273;8233f13
+[01:16:59] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[01:16:59] [Server thread/INFO]: Saving players
+[01:16:59] [Server thread/INFO]: justmartino lost connection: Server closed
+[01:16:59] [Server thread/INFO]: justmartino left the game
+[01:16:59] [Server thread/INFO]: Saving worlds
+[01:16:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:16:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:17:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:17:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:17:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:17:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:17:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:17:01] [Server thread/INFO]: Flushing Chunk IO
+[01:17:01] [Server thread/INFO]: Closing Thread Pool
+[01:17:01] [Server thread/INFO]: Closing Server
