@@ -770,6 +770,7 @@
       "minecraft:slime": "2022-08-29 03:17:38 +0200",
       "minecraft:phantom": "2022-08-30 23:53:29 +0200",
       "minecraft:zombified_piglin": "2022-08-24 18:12:06 +0200",
+      "minecraft:witch": "2022-09-03 02:23:46 +0200",
       "minecraft:wither_skeleton": "2022-08-29 03:47:10 +0200",
       "minecraft:piglin": "2022-08-24 19:28:18 +0200",
       "minecraft:enderman": "2022-08-29 03:24:43 +0200",
@@ -897,6 +898,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2022-09-03 03:58:09 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-08-24 19:49:10 +0200"
@@ -978,6 +985,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2022-08-28 15:21:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2022-09-03 02:24:55 +0200"
     },
     "done": true
   },
@@ -1068,6 +1081,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2022-08-24 19:35:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2022-09-03 02:30:48 +0200"
     },
     "done": true
   },
@@ -1477,6 +1496,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2022-09-03 03:58:09 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
       "has_polished_blackstone": "2022-08-25 18:43:40 +0200"
@@ -1504,6 +1529,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2022-08-25 18:29:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2022-09-03 02:28:31 +0200"
     },
     "done": true
   },

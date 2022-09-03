@@ -1,74 +1,84 @@
-[13:04:48] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[13:04:55] [Worker-Main-1/INFO]: Loaded 7 recipes
-[13:04:59] [Server thread/INFO]: Starting minecraft server version 1.18.2
-[13:04:59] [Server thread/INFO]: Loading properties
-[13:04:59] [Server thread/INFO]: This server is running Paper version git-Paper-387 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT) (Git: df630a2 on ver/1.18.2)
-[13:04:59] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[13:04:59] [Server thread/INFO]: Using 4 threads for Netty based IO
-[13:04:59] [Server thread/INFO]: Default game type: SURVIVAL
-[13:04:59] [Server thread/INFO]: Generating keypair
-[13:05:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:05:00] [Server thread/INFO]: Using default channel type
-[13:05:00] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
-[13:05:00] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
-[13:05:01] [Server thread/INFO]: [FastAsyncWorldEdit] Loading FastAsyncWorldEdit v2.4.5-SNAPSHOT-273;8233f13
-[13:05:03] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@46f5b055]
-[13:05:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[13:05:03] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.4.5-SNAPSHOT-273;8233f13
-[13:05:03] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
-[13:05:03] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
-[13:05:03] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[13:05:03] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[13:05:04] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_18_R2.PaperweightFaweAdapter as the Bukkit adapter
-[13:05:06] [Server thread/INFO]: Preparing level "world"
-[13:05:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:05:25] [Server thread/INFO]: Preparing spawn area: 0%
-[13:05:25] [Server thread/INFO]: Preparing spawn area: 0%
-[13:05:25] [Server thread/INFO]: Preparing spawn area: 0%
-[13:05:25] [Server thread/INFO]: Preparing spawn area: 0%
-[13:05:25] [Server thread/INFO]: Preparing spawn area: 0%
-[13:05:25] [Server thread/INFO]: Preparing spawn area: 0%
-[13:05:26] [Server thread/INFO]: Preparing spawn area: 0%
-[13:05:26] [Server thread/INFO]: Preparing spawn area: 0%
-[13:05:27] [Server thread/INFO]: Preparing spawn area: 0%
-[13:05:27] [Server thread/INFO]: Preparing spawn area: 0%
-[13:05:28] [Server thread/INFO]: Preparing spawn area: 0%
-[13:05:28] [Server thread/INFO]: Preparing spawn area: 0%
-[13:05:29] [Server thread/INFO]: Preparing spawn area: 0%
-[13:05:29] [Server thread/INFO]: Time elapsed: 6111 ms
-[13:05:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[13:05:29] [Server thread/INFO]: Time elapsed: 134 ms
-[13:05:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[13:05:29] [Server thread/INFO]: Time elapsed: 429 ms
-[13:05:30] [Server thread/INFO]: Running delayed init tasks
-[13:05:31] [Server thread/INFO]: Done (32.360s)! For help, type "help"
-[13:05:31] [Server thread/INFO]: Timings Reset
-[13:06:41] [User Authenticator #1/INFO]: UUID of player justmartino is 7f0f99f0-5d6e-4f77-9063-efc66f10dfaf
-[13:06:44] [Server thread/INFO]: justmartino joined the game
-[13:06:45] [Server thread/INFO]: justmartino[/127.0.0.1:56600] logged in with entity id 315 at ([world_nether]-13.228826337287474, 69.5, 30.318261760375254)
-[13:06:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5019ms or 100 ticks behind
-[13:42:08] [Server thread/INFO]: justmartino was slain by Zombified Piglin
-[14:34:20] [Server thread/INFO]: justmartino lost connection: Disconnected
-[14:34:20] [Server thread/INFO]: justmartino left the game
-[14:39:40] [User Authenticator #2/INFO]: UUID of player justmartino is 7f0f99f0-5d6e-4f77-9063-efc66f10dfaf
-[14:39:47] [Server thread/INFO]: justmartino joined the game
-[14:39:47] [Server thread/INFO]: justmartino[/127.0.0.1:60676] logged in with entity id 21371 at ([world]-171.30000001192093, 74.0, 20.69999998807907)
-[14:39:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6075ms or 121 ticks behind
-[15:31:49] [Server thread/INFO]: Stopping the server
-[15:31:49] [Server thread/INFO]: Stopping server
-[15:31:49] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.4.5-SNAPSHOT-273;8233f13
-[15:31:49] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[15:31:49] [Server thread/INFO]: Saving players
-[15:31:49] [Server thread/INFO]: justmartino lost connection: Server closed
-[15:31:49] [Server thread/INFO]: justmartino left the game
-[15:31:49] [Server thread/INFO]: Saving worlds
-[15:31:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:31:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[15:31:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[15:31:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:31:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:31:54] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:31:54] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[15:31:54] [Server thread/INFO]: Flushing Chunk IO
-[15:31:54] [Server thread/INFO]: Closing Thread Pool
-[15:31:54] [Server thread/INFO]: Closing Server
+[00:13:14] [User Authenticator #13/INFO]: UUID of player HackDamonius is 97c39833-cb73-4f13-bba3-f4d8e34271d0
+[00:13:15] [Server thread/INFO]: HackDamonius joined the game
+[00:13:15] [Server thread/INFO]: HackDamonius[/127.0.0.1:60547] logged in with entity id 141848 at ([world]-90.7565417646806, 176.0, 232.6052759780019)
+[00:16:13] [User Authenticator #14/INFO]: UUID of player justmartino is 7f0f99f0-5d6e-4f77-9063-efc66f10dfaf
+[00:16:13] [Server thread/INFO]: justmartino joined the game
+[00:16:13] [Server thread/INFO]: justmartino[/94.110.132.205:60648] logged in with entity id 142167 at ([world_nether]-8.502684052542573, 1.5, 14.30778181939961)
+[00:47:44] [Async Chat Thread - #1/INFO]: <HackDamonius> >SLEEEPEEPPPPPPPPP
+[00:47:48] [Async Chat Thread - #1/INFO]: <HackDamonius> danke :3
+[01:03:33] [Server thread/INFO]: justmartino fell off a ladder
+[01:04:02] [Server thread/INFO]: HackDamonius fell from a high place
+[01:05:30] [Async Chat Thread - #2/INFO]: <HackDamonius> how ot ban someone in minecraft
+[01:05:42] [Server thread/INFO]: justmartino issued server command: /kick HackDamonius
+[01:05:42] [Server thread/INFO]: HackDamonius lost connection: Kicked by an operator
+[01:05:42] [Server thread/INFO]: HackDamonius left the game
+[01:05:42] [Server thread/INFO]: [justmartino: Kicked HackDamonius: Kicked by an operator]
+[01:05:53] [User Authenticator #15/INFO]: UUID of player HackDamonius is 97c39833-cb73-4f13-bba3-f4d8e34271d0
+[01:05:53] [Server thread/INFO]: HackDamonius joined the game
+[01:05:53] [Server thread/INFO]: HackDamonius[/127.0.0.1:55667] logged in with entity id 165803 at ([world_nether]-9.51548808521365, 54.932348453051375, 21.82309557015228)
+[01:05:55] [Server thread/INFO]: HackDamonius fell from a high place
+[01:45:06] [Server thread/INFO]: HackDamonius lost connection: Disconnected
+[01:45:06] [Server thread/INFO]: HackDamonius left the game
+[01:45:13] [User Authenticator #16/INFO]: UUID of player HackDamonius is 97c39833-cb73-4f13-bba3-f4d8e34271d0
+[01:45:13] [Server thread/INFO]: HackDamonius joined the game
+[01:45:13] [Server thread/INFO]: HackDamonius[/127.0.0.1:56070] logged in with entity id 187970 at ([world]-101.0351278308466, 63.0, 24.089159762590647)
+[01:51:22] [Server thread/INFO]: justmartino lost connection: Disconnected
+[01:51:22] [Server thread/INFO]: justmartino left the game
+[01:51:46] [User Authenticator #17/INFO]: UUID of player justmartino is 7f0f99f0-5d6e-4f77-9063-efc66f10dfaf
+[01:51:46] [Server thread/INFO]: justmartino joined the game
+[01:51:46] [Server thread/INFO]: justmartino[/94.110.132.205:59220] logged in with entity id 189313 at ([world_nether]-12.031055491708845, 1.5, 16.788479595079185)
+[01:53:09] [Server thread/INFO]: justmartino issued server command: /gamemode spectator HackDamonius
+[01:53:09] [Server thread/INFO]: [justmartino: Set HackDamonius's game mode to Spectator Mode]
+[01:53:20] [Server thread/INFO]: justmartino issued server command: /gamemode spectator justmartino
+[01:53:20] [Server thread/INFO]: [justmartino: Set own game mode to Spectator Mode]
+[01:54:44] [Async Chat Thread - #3/INFO]: <HackDamonius> 19,5;;132.5
+[01:55:37] [Server thread/INFO]: HackDamonius issued server command: /gamemode survival
+[01:55:37] [Server thread/INFO]: [HackDamonius: Set own game mode to Survival Mode]
+[01:55:46] [Server thread/INFO]: HackDamonius issued server command: /gamemode spectator
+[01:55:46] [Server thread/INFO]: [HackDamonius: Set own game mode to Spectator Mode]
+[01:55:55] [Server thread/INFO]: HackDamonius issued server command: /gamemode survival
+[01:55:55] [Server thread/INFO]: [HackDamonius: Set own game mode to Survival Mode]
+[01:56:16] [Server thread/INFO]: justmartino issued server command: /gamemode survival justmartino
+[01:56:16] [Server thread/INFO]: [justmartino: Set own game mode to Survival Mode]
+[01:56:19] [Server thread/INFO]: justmartino lost connection: Disconnected
+[01:56:19] [Server thread/INFO]: justmartino left the game
+[01:58:13] [User Authenticator #18/INFO]: UUID of player poke_craft245 is 0ed85f74-32e8-431c-91f2-e60507e71871
+[01:58:13] [Server thread/INFO]: poke_craft245 joined the game
+[01:58:13] [Server thread/INFO]: poke_craft245[/91.180.9.155:56197] logged in with entity id 190261 at ([world]-87.05616515712948, 63.0, 95.59581902639627)
+[01:58:57] [Server thread/INFO]: poke_craft245 lost connection: Disconnected
+[01:58:57] [Server thread/INFO]: poke_craft245 left the game
+[01:59:32] [User Authenticator #19/INFO]: UUID of player poke_craft245 is 0ed85f74-32e8-431c-91f2-e60507e71871
+[01:59:32] [Server thread/INFO]: poke_craft245 joined the game
+[01:59:32] [Server thread/INFO]: poke_craft245[/91.180.9.155:56218] logged in with entity id 190456 at ([world]-57.39415770173872, 63.0, 106.67647674715498)
+[02:30:48] [Server thread/INFO]: poke_craft245 has made the advancement [Not Today, Thank You]
+[02:46:12] [Server thread/INFO]: HackDamonius fell off a ladder
+[03:34:29] [User Authenticator #20/INFO]: UUID of player pig_spy is 7fa0b792-3bb4-443f-8015-a50d8b9d76e5
+[03:34:29] [Server thread/INFO]: pig_spy joined the game
+[03:34:29] [Server thread/INFO]: pig_spy[/178.118.17.97:61670] logged in with entity id 243912 at ([world]-87.8514939990446, 70.5625, 243.64391187515878)
+[03:35:09] [Server thread/INFO]: pig_spy tried to swim in lava
+[03:39:39] [Server thread/INFO]: pig_spy fell out of the world
+[03:42:09] [Server thread/INFO]: pig_spy was slain by Enderman
+[03:50:57] [Server thread/INFO]: pig_spy was slain by Enderman
+[04:01:25] [Server thread/INFO]: pig_spy has made the advancement [Acquire Hardware]
+[04:27:23] [Server thread/INFO]: poke_craft245 lost connection: Disconnected
+[04:27:23] [Server thread/INFO]: poke_craft245 left the game
+[04:28:31] [Server thread/INFO]: HackDamonius lost connection: Disconnected
+[04:28:31] [Server thread/INFO]: HackDamonius left the game
+[04:28:43] [Server thread/INFO]: Stopping the server
+[04:28:43] [Server thread/INFO]: Stopping server
+[04:28:43] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.4.5-SNAPSHOT-273;8233f13
+[04:28:43] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[04:28:43] [Server thread/INFO]: Saving players
+[04:28:43] [Server thread/INFO]: pig_spy lost connection: Server closed
+[04:28:43] [Server thread/INFO]: pig_spy left the game
+[04:28:43] [Server thread/INFO]: Saving worlds
+[04:28:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04:28:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[04:28:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[04:28:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04:28:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04:28:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04:28:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04:28:45] [Server thread/INFO]: Flushing Chunk IO
+[04:28:45] [Server thread/INFO]: Closing Thread Pool
+[04:28:45] [Server thread/INFO]: Closing Server
