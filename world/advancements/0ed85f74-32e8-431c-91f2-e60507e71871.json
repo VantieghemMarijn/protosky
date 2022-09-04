@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2022-09-04 19:40:23 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2022-08-29 03:18:30 +0200"
@@ -347,6 +353,7 @@
       "cooked_cod": "2022-08-28 04:04:14 +0200",
       "rotten_flesh": "2022-08-24 18:12:34 +0200",
       "salmon": "2022-08-26 19:43:07 +0200",
+      "melon_slice": "2022-09-04 19:59:57 +0200",
       "cooked_chicken": "2022-08-28 03:49:55 +0200",
       "cod": "2022-08-26 19:45:17 +0200"
     },
@@ -893,6 +900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2022-09-04 19:40:23 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2022-08-28 15:21:54 +0200"
@@ -1148,6 +1161,12 @@
   "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
       "has_planks": "2022-08-24 18:48:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2022-09-04 19:59:24 +0200"
     },
     "done": true
   },
@@ -1813,6 +1832,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2022-08-24 19:48:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2022-09-04 19:40:23 +0200"
     },
     "done": true
   },

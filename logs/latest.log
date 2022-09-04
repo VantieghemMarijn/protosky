@@ -1,31 +1,74 @@
-[00:03:29] [Server thread/INFO]: pig_spy lost connection: Disconnected
-[00:03:29] [Server thread/INFO]: pig_spy left the game
-[00:03:33] [User Authenticator #6/INFO]: UUID of player pig_spy is 7fa0b792-3bb4-443f-8015-a50d8b9d76e5
-[00:03:33] [Server thread/INFO]: pig_spy joined the game
-[00:03:33] [Server thread/INFO]: pig_spy[/178.118.17.97:57567] logged in with entity id 152563 at ([world]-92.07000412822161, 74.78270341205094, 138.4250058057412)
-[00:03:34] [Server thread/INFO]: pig_spy fell from a high place
-[00:04:20] [Server thread/INFO]: pig_spy lost connection: Disconnected
-[00:04:20] [Server thread/INFO]: pig_spy left the game
-[00:04:26] [User Authenticator #6/INFO]: UUID of player pig_spy is 7fa0b792-3bb4-443f-8015-a50d8b9d76e5
-[00:04:26] [Server thread/INFO]: pig_spy joined the game
-[00:04:26] [Server thread/INFO]: pig_spy[/178.118.17.97:57579] logged in with entity id 152706 at ([world]-96.27625975322165, 63.10269255279213, 136.1123919624415)
-[00:04:37] [Server thread/INFO]: pig_spy lost connection: Disconnected
-[00:04:37] [Server thread/INFO]: pig_spy left the game
-[00:07:43] [Server thread/INFO]: HackDamonius lost connection: Disconnected
-[00:07:43] [Server thread/INFO]: HackDamonius left the game
-[00:07:48] [Server thread/INFO]: Stopping the server
-[00:07:48] [Server thread/INFO]: Stopping server
-[00:07:48] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.4.5-SNAPSHOT-273;8233f13
-[00:07:48] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[00:07:48] [Server thread/INFO]: Saving players
-[00:07:48] [Server thread/INFO]: Saving worlds
-[00:07:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:07:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[00:07:49] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[00:07:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:07:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:07:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:07:49] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[00:07:50] [Server thread/INFO]: Flushing Chunk IO
-[00:07:50] [Server thread/INFO]: Closing Thread Pool
-[00:07:50] [Server thread/INFO]: Closing Server
+[18:22:58] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:22:59] [Worker-Main-2/INFO]: Loaded 7 recipes
+[18:23:01] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[18:23:01] [Server thread/INFO]: Loading properties
+[18:23:01] [Server thread/INFO]: This server is running Paper version git-Paper-387 (MC: 1.18.2) (Implementing API version 1.18.2-R0.1-SNAPSHOT) (Git: df630a2 on ver/1.18.2)
+[18:23:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:23:01] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:23:01] [Server thread/INFO]: Default game type: SURVIVAL
+[18:23:01] [Server thread/INFO]: Generating keypair
+[18:23:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:23:01] [Server thread/INFO]: Using default channel type
+[18:23:01] [Server thread/INFO]: Paper: Using Java 11 compression from Velocity.
+[18:23:01] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[18:23:02] [Server thread/INFO]: [FastAsyncWorldEdit] Loading FastAsyncWorldEdit v2.4.5-SNAPSHOT-273;8233f13
+[18:23:02] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@6bd5d9de]
+[18:23:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:23:02] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v2.4.5-SNAPSHOT-273;8233f13
+[18:23:03] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] LZ4 Compression Binding loaded successfully
+[18:23:03] [Server thread/INFO]: [com.fastasyncworldedit.core.Fawe] ZSTD Compression Binding loaded successfully
+[18:23:03] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[18:23:03] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[18:23:03] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.fawe.v1_18_R2.PaperweightFaweAdapter as the Bukkit adapter
+[18:23:04] [Server thread/INFO]: Preparing level "world"
+[18:23:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:23:05] [Server thread/INFO]: Time elapsed: 344 ms
+[18:23:05] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:23:05] [Server thread/INFO]: Time elapsed: 101 ms
+[18:23:05] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:23:06] [Server thread/INFO]: Time elapsed: 84 ms
+[18:23:06] [Server thread/INFO]: Running delayed init tasks
+[18:23:06] [Server thread/INFO]: Done (5.445s)! For help, type "help"
+[18:23:06] [Server thread/INFO]: Timings Reset
+[18:25:51] [User Authenticator #1/INFO]: UUID of player poke_craft245 is 0ed85f74-32e8-431c-91f2-e60507e71871
+[18:25:52] [Server thread/INFO]: poke_craft245 joined the game
+[18:25:52] [Server thread/INFO]: poke_craft245[/91.180.9.155:50848] logged in with entity id 541 at ([world]-91.67553973113368, 80.0, 136.98982483744868)
+[18:31:39] [User Authenticator #2/INFO]: UUID of player HackDamonius is 97c39833-cb73-4f13-bba3-f4d8e34271d0
+[18:31:39] [Server thread/INFO]: HackDamonius joined the game
+[18:31:39] [Server thread/INFO]: HackDamonius[/127.0.0.1:64560] logged in with entity id 1563 at ([world]-99.43342863890426, 63.5, 133.27838617987533)
+[18:46:31] [Server thread/INFO]: HackDamonius was shot by poke_craft245
+[19:13:20] [Server thread/INFO]: poke_craft245 was slain by Slime
+[19:17:54] [Server thread/INFO]: com.mojang.authlib.GameProfile@3a4f1a29[id=<null>,name=pig_spy,properties={},legacy=false] (/178.118.17.97:60899) lost connection: Disconnected
+[19:18:12] [User Authenticator #3/INFO]: UUID of player pig_spy is 7fa0b792-3bb4-443f-8015-a50d8b9d76e5
+[19:18:12] [Server thread/INFO]: pig_spy joined the game
+[19:18:12] [Server thread/INFO]: pig_spy[/178.118.17.97:60921] logged in with entity id 11135 at ([world]-98.50152518012027, 63.0, 135.62136858747644)
+[19:20:32] [Server thread/INFO]: pig_spy was slain by HackDamonius
+[19:23:07] [Server thread/INFO]: pig_spy fell out of the world
+[19:34:24] [Server thread/INFO]: pig_spy fell out of the world
+[19:36:29] [Server thread/INFO]: HackDamonius has made the advancement [A Seedy Place]
+[19:37:02] [Server thread/INFO]: pig_spy fell out of the world
+[20:00:56] [Server thread/INFO]: poke_craft245 lost connection: Disconnected
+[20:00:56] [Server thread/INFO]: poke_craft245 left the game
+[20:16:07] [Server thread/INFO]: pig_spy fell from a high place
+[20:30:47] [Server thread/INFO]: pig_spy was shot by Skeleton
+[20:39:11] [Server thread/INFO]: pig_spy fell from a high place
+[21:04:08] [Server thread/INFO]: HackDamonius lost connection: Disconnected
+[21:04:08] [Server thread/INFO]: HackDamonius left the game
+[21:04:25] [Server thread/INFO]: pig_spy lost connection: Disconnected
+[21:04:25] [Server thread/INFO]: pig_spy left the game
+[22:00:35] [Server thread/INFO]: Stopping the server
+[22:00:35] [Server thread/INFO]: Stopping server
+[22:00:35] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v2.4.5-SNAPSHOT-273;8233f13
+[22:00:35] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[22:00:35] [Server thread/INFO]: Saving players
+[22:00:35] [Server thread/INFO]: Saving worlds
+[22:00:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:00:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[22:00:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[22:00:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:00:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:00:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:00:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:00:37] [Server thread/INFO]: Flushing Chunk IO
+[22:00:37] [Server thread/INFO]: Closing Thread Pool
+[22:00:37] [Server thread/INFO]: Closing Server
